@@ -1,0 +1,566 @@
+{
+  "query_id": "q_20260218_221058_616b35",
+  "total_sentences": 56,
+  "sentences": [
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_1_0",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Men's_T20_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The ICC Men's T20 World Cup, formerly the ICC World Twenty20, is a biennial world cup for cricket in Twenty20 International (T20I) format, organised by the International Cricket Council (ICC)."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_1_1",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Men's_T20_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "It was held in every odd year from 2007 to 2009, and since 2010 has been held in every even year with the exception of 2018 and 2020."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_1_2",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Men's_T20_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "In 2018, the tournament was rebranded from World Twenty20 to Men's T20 World Cup."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_2_0",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The FIFA World Cup, often called the World Cup, is an international association football competition among the senior men's national teams of the members of the Fédération Internationale de Football Association (FIFA), the sport's global governing body."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_2_1",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "The tournament has been held every four years since the inaugural tournament in 1930, with the exception of 1942 and 1946 due to the Second World War."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_2_2",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "The reigning champions are Argentina, who won their third title at the 2022 World Cup by defeating France."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_3_0",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "2026 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The 2026 FIFA World Cup, marketed as FIFA World Cup 26, will be the 23rd FIFA World Cup, the quadrennial international men's soccer championship contested by the national teams of the member associations of FIFA."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_3_1",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "2026 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "The tournament will take place from June 11 to July 19, 2026."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_3_2",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "2026 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "It will be jointly hosted by sixteen cities—eleven in the United States, three in Mexico, and two in Canada."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_3_3",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "2026 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+      "sentence_index": 3,
+      "sentence_text": "The tournament will be the first to be hosted by three nations."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_4_0",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "FIFA Men's World Ranking",
+      "url": "https://en.wikipedia.org/wiki/FIFA_Men's_World_Ranking",
+      "sentence_index": 0,
+      "sentence_text": "The FIFA Men's World Ranking is a ranking system for men's national teams in association football, first introduced in December 1992."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_4_1",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "FIFA Men's World Ranking",
+      "url": "https://en.wikipedia.org/wiki/FIFA_Men's_World_Ranking",
+      "sentence_index": 1,
+      "sentence_text": "The men's teams of the member nations of FIFA, football's world governing body, are ranked based on their game results with the most successful teams being ranked the highest."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_4_2",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "FIFA Men's World Ranking",
+      "url": "https://en.wikipedia.org/wiki/FIFA_Men's_World_Ranking",
+      "sentence_index": 2,
+      "sentence_text": "As of January 2026, the rankings were led by Spain."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_4_3",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "FIFA Men's World Ranking",
+      "url": "https://en.wikipedia.org/wiki/FIFA_Men's_World_Ranking",
+      "sentence_index": 3,
+      "sentence_text": "Eight teams have held the top position, of which Brazil have spent the longest time ranked first."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_5_0",
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "Cricket World Cup",
+      "url": "https://en.wikipedia.org/wiki/Cricket_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The ICC Men's Cricket World Cup is a quadrennial world cup for cricket in One Day International (ODI) format, organised by the International Cricket Council (ICC)."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_5_1",
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "Cricket World Cup",
+      "url": "https://en.wikipedia.org/wiki/Cricket_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "The tournament is one of the world's most viewed sporting events and considered the flagship event of the international cricket calendar by the ICC."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_6_0",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "World Cup of Hockey",
+      "url": "https://en.wikipedia.org/wiki/World_Cup_of_Hockey",
+      "sentence_index": 0,
+      "sentence_text": "The World Cup of Hockey is an international ice hockey tournament."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_6_1",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "World Cup of Hockey",
+      "url": "https://en.wikipedia.org/wiki/World_Cup_of_Hockey",
+      "sentence_index": 1,
+      "sentence_text": "Inaugurated in 1996, it is the successor to the Canada Cup, which was held every three to five years from 1976 to 1991 and was the first international hockey championship to allow nations to field their top players."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_6_2",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "World Cup of Hockey",
+      "url": "https://en.wikipedia.org/wiki/World_Cup_of_Hockey",
+      "sentence_index": 2,
+      "sentence_text": "The World Cup has occurred thrice before on an irregular basis, with the United States winning in 1996 and Canada winning in 2004 and 2016."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_6_3",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "World Cup of Hockey",
+      "url": "https://en.wikipedia.org/wiki/World_Cup_of_Hockey",
+      "sentence_index": 3,
+      "sentence_text": "Following the 2016 tournament, it was uncertain whether the series would be continued, after the cancellation of the 2020 tournament."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_6_4",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "World Cup of Hockey",
+      "url": "https://en.wikipedia.org/wiki/World_Cup_of_Hockey",
+      "sentence_index": 4,
+      "sentence_text": "It is tentatively scheduled to be held every four years, starting in 2028."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_7_0",
+      "doc_id": "wiki_7",
+      "source": "wikipedia",
+      "title": "2030 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2030_FIFA_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The 2030 FIFA World Cup will be the 24th FIFA World Cup, a quadrennial international football tournament contested by the men's national teams of the member associations of FIFA."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_8_0",
+      "doc_id": "wiki_8",
+      "source": "wikipedia",
+      "title": "FIFA Women's World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_Women's_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The FIFA Women's World Cup is an international association football competition contested by the senior women's national teams of the members of the Fédération Internationale de Football Association (FIFA), the sport's international governing body."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_8_1",
+      "doc_id": "wiki_8",
+      "source": "wikipedia",
+      "title": "FIFA Women's World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_Women's_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "The competition has been held every four years and one year after the men's FIFA World Cup since 1991, when the inaugural tournament, then called the FIFA Women's World Championship, was held in China."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_9_0",
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Women's_T20_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The ICC Women's T20 World Cup is a biennial world cup for the sport of cricket in the T20I format."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_9_1",
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Women's_T20_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "It is organised by the International Cricket Council."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_9_2",
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Women's_T20_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "The first edition was held in England in 2009."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_9_3",
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Women's_T20_World_Cup",
+      "sentence_index": 3,
+      "sentence_text": "For the first 3 editions, there were eight participating nations, but the number was raised to ten from the 2014 edition."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_9_4",
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Women's_T20_World_Cup",
+      "sentence_index": 4,
+      "sentence_text": "The number of teams are set to increase to twelve during the 2026 edition."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_10_0",
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "2023 FIFA Women's World Cup",
+      "url": "https://en.wikipedia.org/wiki/2023_FIFA_Women's_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The 2023 FIFA Women's World Cup was the ninth edition of the FIFA Women's World Cup, the quadrennial international women's football championship contested by women's national teams and organised by FIFA."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_10_1",
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "2023 FIFA Women's World Cup",
+      "url": "https://en.wikipedia.org/wiki/2023_FIFA_Women's_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "The tournament, which took place from 20 July to 20 August 2023, was jointly hosted by Australia and New Zealand."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_10_2",
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "2023 FIFA Women's World Cup",
+      "url": "https://en.wikipedia.org/wiki/2023_FIFA_Women's_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "It was the first FIFA Women's World Cup with more than one host nation, as well as the first World Cup to be held across multiple confederations, as Australia is in the Asian confederation, while New Zealand is in the Oceanian confederation."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_10_3",
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "2023 FIFA Women's World Cup",
+      "url": "https://en.wikipedia.org/wiki/2023_FIFA_Women's_World_Cup",
+      "sentence_index": 3,
+      "sentence_text": "It was also the first Women's World Cup to be held in the Southern Hemisphere."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_scholar_1_0",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The evolution of competitive balance in men’s international cricket",
+      "url": "https://openalex.org/W3170695718",
+      "sentence_index": 0,
+      "sentence_text": "Rationale: This study analyses competitive balance (CB) in all formats of men's international cricket longitudinally between 1877 and 2019 with the results broken down into segregated time periods to account for changes in the format of the sport over the course of its history."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_scholar_1_1",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The evolution of competitive balance in men’s international cricket",
+      "url": "https://openalex.org/W3170695718",
+      "sentence_index": 1,
+      "sentence_text": "Methodology: Using recognised measures of league concentration, the results display a mixed picture in respect of competitive balance across the various formats of cricket."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_scholar_1_2",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The evolution of competitive balance in men’s international cricket",
+      "url": "https://openalex.org/W3170695718",
+      "sentence_index": 2,
+      "sentence_text": "Men's international cricket has seen growth in the last five years after all Twenty20 (T20) matches between International Cricket Council (ICC) member nations have been awarded international status and competitive balance in all formats of the game has remained relatively stable."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_scholar_1_3",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The evolution of competitive balance in men’s international cricket",
+      "url": "https://openalex.org/W3170695718",
+      "sentence_index": 3,
+      "sentence_text": "Findings: No significant changes have been observed in CB scores in test and One Day Internationals (ODI) while improvement in CB scores have been observed for T20I."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_scholar_1_4",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The evolution of competitive balance in men’s international cricket",
+      "url": "https://openalex.org/W3170695718",
+      "sentence_index": 4,
+      "sentence_text": "We did not find any impact of the introduction of T20I on competitive balance in ODI cricket."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_scholar_1_5",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The evolution of competitive balance in men’s international cricket",
+      "url": "https://openalex.org/W3170695718",
+      "sentence_index": 5,
+      "sentence_text": "Practical implications: In a broader governance context, questions remain over the potential for further growth of the international cricket market given the dominant market position of the full members of ICC, in particular India, Australia and England, who have access to majority of the central revenue funding from the governing body."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_1_0",
+      "doc_id": "gnews_1",
+      "source": "gnews",
+      "title": "Google Pixel 10a To Launch In India Today, Pre-Orders To Begin Tonight",
+      "url": "https://www.freepressjournal.in/tech/google-pixel-10a-to-launch-in-india-today-pre-orders-to-begin-tonight",
+      "sentence_index": 0,
+      "sentence_text": "Google is launching the Pixel 10a in India today, with pre-orders starting at 9pm IST on Flipkart and the Google Store."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_1_1",
+      "doc_id": "gnews_1",
+      "source": "gnews",
+      "title": "Google Pixel 10a To Launch In India Today, Pre-Orders To Begin Tonight",
+      "url": "https://www.freepressjournal.in/tech/google-pixel-10a-to-launch-in-india-today-pre-orders-to-begin-tonight",
+      "sentence_index": 1,
+      "sentence_text": "The phone is expected to feature a 6.3-inch 120Hz display, 48MP main camera and 5,100mAh battery."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_1_2",
+      "doc_id": "gnews_1",
+      "source": "gnews",
+      "title": "Google Pixel 10a To Launch In India Today, Pre-Orders To Begin Tonight",
+      "url": "https://www.freepressjournal.in/tech/google-pixel-10a-to-launch-in-india-today-pre-orders-to-begin-tonight",
+      "sentence_index": 2,
+      "sentence_text": "Pricing and launch offers, including a ₹2,000 voucher, will be revealed tonight."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_2_0",
+      "doc_id": "gnews_2",
+      "source": "gnews",
+      "title": "‘CEOs Of Chanel, Alphabet, Adobe Are Indian’: Macron Hails India’s Global Innovation Leadership",
+      "url": "https://www.news18.com/india/ceos-of-chanel-alphabet-adobe-are-indian-macron-hails-indias-global-innovation-leadership-ws-l-9911626.html",
+      "sentence_index": 0,
+      "sentence_text": "Emmanuel Macron praises India’s global innovation leadership as India-France elevate ties to a Special Global Strategic Partnership in Mumbai."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_3_0",
+      "doc_id": "gnews_3",
+      "source": "gnews",
+      "title": "NRI Reveals Reason To Leave Rs 2.9 Crore Salary In US To Return To India",
+      "url": "https://www.ndtv.com/offbeat/nri-reveals-reason-to-leave-rs-2-9-crore-salary-in-us-to-return-to-india-11051870",
+      "sentence_index": 0,
+      "sentence_text": "An NRI earning $320k in the US plans to relocate with his family to Navi Mumbai to be near his parents and ensure his children grow up with grandparents."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_4_0",
+      "doc_id": "gnews_4",
+      "source": "gnews",
+      "title": "PM Modi invites Bangladesh’s Tarique Rahman to visit India",
+      "url": "https://scroll.in/latest/1090822/pm-modi-invites-bangladeshs-tarique-rahman-to-visit-india",
+      "sentence_index": 0,
+      "sentence_text": "The Indian foreign secretary met the Bangladeshi Opposition leader Shafiqur Rahman of the Jamaat-e-Islami."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_5_0",
+      "doc_id": "gnews_5",
+      "source": "gnews",
+      "title": "India's AI Vision: Pioneering Productivity and Solutions",
+      "url": "https://www.devdiscourse.com/article/technology/3808826-indias-ai-vision-pioneering-productivity-and-solutions",
+      "sentence_index": 0,
+      "sentence_text": "India's IT Minister Ashwini Vaishnaw emphasizes AI's role in enhancing productivity and tackling large-scale challenges in sectors like healthcare, agriculture, and climate change."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_5_1",
+      "doc_id": "gnews_5",
+      "source": "gnews",
+      "title": "India's AI Vision: Pioneering Productivity and Solutions",
+      "url": "https://www.devdiscourse.com/article/technology/3808826-indias-ai-vision-pioneering-productivity-and-solutions",
+      "sentence_index": 1,
+      "sentence_text": "Speaking at the AI Impact Summit, he highlighted youth participation and optimism in AI's potential for a transformative future."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_6_0",
+      "doc_id": "gnews_6",
+      "source": "gnews",
+      "title": "India vs Netherlands, T20 World Cup Preview: Predicted XI, key players, pitch and weather report, where to watch",
+      "url": "https://www.cnbctv18.com/sports/india-vs-netherlands-t20-world-cup-preview-predicted-xi-key-players-pitch-and-weather-report-where-to-watch-19852322.htm",
+      "sentence_index": 0,
+      "sentence_text": "India have been unbeaten in the last 11 T20 World Cup matches, which is a streak that began from the clash against Pakistan in the 2024 edition of the tournament in the June of that year."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_7_0",
+      "doc_id": "gnews_7",
+      "source": "gnews",
+      "title": "India's AI push gets US$2 billion boost from Yotta's Nvidia investment",
+      "url": "https://www.channelnewsasia.com/asia/india-data-centre-yotta-nvidia-5937291",
+      "sentence_index": 0,
+      "sentence_text": "NEW DELHI: India's Yotta Data Services will spend over US$2 billion on Nvidia’s latest chips to set up an artificial intelligence computing hub as it prepares to float its shares, it said on Wednesday (Feb 18), delivering a boost to the country's fledgling AI drive.Yotta is aiming to raise up to US$1.2 bill"
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_8_0",
+      "doc_id": "gnews_8",
+      "source": "gnews",
+      "title": "Automation to decrease value of human labour: Yoshua Bengio",
+      "url": "https://www.hindustantimes.com/india-news/automation-to-decrease-value-of-human-labour-yoshua-bengio-101771389202459.html",
+      "sentence_index": 0,
+      "sentence_text": "Yoshua Bengio pushed back against suggestions that India should sidestep the global race to build large models| India News"
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_9_0",
+      "doc_id": "gnews_9",
+      "source": "gnews",
+      "title": "School Spirits Season 3 Episode 6 release time, schedule and how to watch: Global streaming timings worldwide",
+      "url": "https://economictimes.indiatimes.com/news/international/us/school-spirits-season-3-episode-6-release-time-schedule-and-how-to-watch-global-streaming-timings-worldwide-paramount/articleshow/128491220.cms",
+      "sentence_index": 0,
+      "sentence_text": "School Spirits Season 3 Episode 6 release time, schedule and how to watch is confirmed for February 18 on Paramount+."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_9_1",
+      "doc_id": "gnews_9",
+      "source": "gnews",
+      "title": "School Spirits Season 3 Episode 6 release time, schedule and how to watch: Global streaming timings worldwide",
+      "url": "https://economictimes.indiatimes.com/news/international/us/school-spirits-season-3-episode-6-release-time-schedule-and-how-to-watch-global-streaming-timings-worldwide-paramount/articleshow/128491220.cms",
+      "sentence_index": 1,
+      "sentence_text": "The episode follows a weekly release plan."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_9_2",
+      "doc_id": "gnews_9",
+      "source": "gnews",
+      "title": "School Spirits Season 3 Episode 6 release time, schedule and how to watch: Global streaming timings worldwide",
+      "url": "https://economictimes.indiatimes.com/news/international/us/school-spirits-season-3-episode-6-release-time-schedule-and-how-to-watch-global-streaming-timings-worldwide-paramount/articleshow/128491220.cms",
+      "sentence_index": 2,
+      "sentence_text": "Viewers in the US, UK, India, and other regions can stream it at different times using Paramount+ subscription service online."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_10_0",
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "Pakistan vs Namibia Colombo Weather latest updates: What's the rain forecast today? How washout will affect Pak's chances",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/pakistan-vs-namibia-colombo-weather-latest-updates-whats-the-rain-forecast-today-how-washout-will-affect-paks-chances/articleshow/128491097.cms",
+      "sentence_index": 0,
+      "sentence_text": "PAK vs NAM Colombo Weather Forecast: Pakistan's T20 World Cup 2026 campaign hinges on their crucial match against Namibia."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_10_1",
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "Pakistan vs Namibia Colombo Weather latest updates: What's the rain forecast today? How washout will affect Pak's chances",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/pakistan-vs-namibia-colombo-weather-latest-updates-whats-the-rain-forecast-today-how-washout-will-affect-paks-chances/articleshow/128491097.cms",
+      "sentence_index": 1,
+      "sentence_text": "A win is essential to advance to the Super 8 stage, while a washout would also secure their qualification."
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_10_2",
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "Pakistan vs Namibia Colombo Weather latest updates: What's the rain forecast today? How washout will affect Pak's chances",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/pakistan-vs-namibia-colombo-weather-latest-updates-whats-the-rain-forecast-today-how-washout-will-affect-paks-chances/articleshow/128491097.cms",
+      "sentence_index": 2,
+      "sentence_text": "This situation arises after their loss to India, impacting their net run rate."
+    }
+  ]
+}

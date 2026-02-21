@@ -1,0 +1,66 @@
+{
+  "query_id": "q_20260218_225636_2fb9de",
+  "total_results": 5,
+  "results": [
+    {
+      "query_id": "q_20260218_225636_2fb9de",
+      "sentence_id": "s_wiki_5_0",
+      "final_score": 0.9322459207687682,
+      "bm25_score": 6.6357257059070065,
+      "faiss_score": 0.5159176588058472,
+      "sentence_text": "The 2011 ICC Cricket World Cup was the tenth Cricket World Cup.",
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "2011 Cricket World Cup",
+      "url": "https://en.wikipedia.org/wiki/2011_Cricket_World_Cup"
+    },
+    {
+      "query_id": "q_20260218_225636_2fb9de",
+      "sentence_id": "s_wiki_6_0",
+      "final_score": 0.908305713531947,
+      "bm25_score": 6.1032900623424045,
+      "faiss_score": 0.5577254295349121,
+      "sentence_text": "The 2025 ICC Women's Cricket World Cup was the 13th edition of Women's Cricket World Cup.",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "2025 Women's Cricket World Cup",
+      "url": "https://en.wikipedia.org/wiki/2025_Women's_Cricket_World_Cup"
+    },
+    {
+      "query_id": "q_20260218_225636_2fb9de",
+      "sentence_id": "s_wiki_7_4",
+      "final_score": 0.8936213417252392,
+      "bm25_score": 6.181459324107317,
+      "faiss_score": 0.5201498866081238,
+      "sentence_text": "Among the full members, India have won the World Cup on a record six occasions, while Australia have won four times, Pakistan twice, and Bangladesh, England, South Africa and the West Indies once each.",
+      "doc_id": "wiki_7",
+      "source": "wikipedia",
+      "title": "Under-19 Men's Cricket World Cup",
+      "url": "https://en.wikipedia.org/wiki/Under-19_Men's_Cricket_World_Cup"
+    },
+    {
+      "query_id": "q_20260218_225636_2fb9de",
+      "sentence_id": "s_wiki_8_0",
+      "final_score": 0.8838967530189614,
+      "bm25_score": 6.242182895115213,
+      "faiss_score": 0.49386686086654663,
+      "sentence_text": "The 2003 ICC Cricket World Cup was the eighth Cricket World Cup, organised by the International Cricket Council (ICC).",
+      "doc_id": "wiki_8",
+      "source": "wikipedia",
+      "title": "2003 Cricket World Cup",
+      "url": "https://en.wikipedia.org/wiki/2003_Cricket_World_Cup"
+    },
+    {
+      "query_id": "q_20260218_225636_2fb9de",
+      "sentence_id": "s_wiki_10_0",
+      "final_score": 0.8837952986617581,
+      "bm25_score": 5.350554832877976,
+      "faiss_score": 0.632957398891449,
+      "sentence_text": "The 2027 ICC Men's Cricket World Cup will be the 14th edition of the Cricket World Cup, the quadrennial international men's Cricket championship contested by the national teams of the member associations of ICC.",
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "2027 Cricket World Cup",
+      "url": "https://en.wikipedia.org/wiki/2027_Cricket_World_Cup"
+    }
+  ]
+}

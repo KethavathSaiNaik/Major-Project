@@ -1,0 +1,66 @@
+{
+  "query_id": "q_20260218_222352_8db8ed",
+  "total_results": 5,
+  "results": [
+    {
+      "query_id": "q_20260218_222352_8db8ed",
+      "sentence_id": "s_wiki_1_0",
+      "final_score": 1.0,
+      "bm25_score": 9.952691798882647,
+      "faiss_score": 0.5848203301429749,
+      "sentence_text": "2020 World Cup may refer to:",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "2020 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2020_World_Cup"
+    },
+    {
+      "query_id": "q_20260218_222352_8db8ed",
+      "sentence_id": "s_wiki_3_2",
+      "final_score": 0.8792968020019201,
+      "bm25_score": 8.750470026729142,
+      "faiss_score": 0.503774881362915,
+      "sentence_text": "The reigning champions are Argentina, who won their third title at the 2022 World Cup by defeating France.",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup"
+    },
+    {
+      "query_id": "q_20260218_222352_8db8ed",
+      "sentence_id": "s_wiki_2_0",
+      "final_score": 0.6449947677183834,
+      "bm25_score": 4.804210886379474,
+      "faiss_score": 0.5098229646682739,
+      "sentence_text": "The ICC Men's T20 World Cup, formerly the ICC World Twenty20, is a biennial world cup for cricket in Twenty20 International (T20I) format, organised by the International Cricket Council (ICC).",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Men's_T20_World_Cup"
+    },
+    {
+      "query_id": "q_20260218_222352_8db8ed",
+      "sentence_id": "s_wiki_2_2",
+      "final_score": 0.6324728219764411,
+      "bm25_score": 4.932729959652629,
+      "faiss_score": 0.47575968503952026,
+      "sentence_text": "In 2018, the tournament was rebranded from World Twenty20 to Men's T20 World Cup.",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Men's_T20_World_Cup"
+    },
+    {
+      "query_id": "q_20260218_222352_8db8ed",
+      "sentence_id": "s_wiki_5_2",
+      "final_score": 0.6005246135064939,
+      "bm25_score": 6.3081526935275,
+      "faiss_score": 0.28272777795791626,
+      "sentence_text": "Since then there have been a number of sporting events labeled \"world cup\", such as the ICC Men's Cricket World Cup, the Rugby World Cup, Rugby League World Cup, Basketball World Cup, and the Hockey World Cup.",
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "World cup",
+      "url": "https://en.wikipedia.org/wiki/World_cup"
+    }
+  ]
+}

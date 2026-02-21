@@ -1,0 +1,14 @@
+{
+  "query_id": "q_20260218_225636_2fb9de",
+  "claim": "germany won cricket world cup in 2024",
+  "label": "REFUTES",
+  "confidence": 0.9999997615814209,
+  "used_sentence_ids": [
+    "s_wiki_5_0",
+    "s_wiki_6_0",
+    "s_wiki_7_4",
+    "s_wiki_8_0",
+    "s_wiki_10_0"
+  ],
+  "num_evidence_used": 5
+}

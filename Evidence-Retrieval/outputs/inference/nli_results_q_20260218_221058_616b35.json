@@ -1,0 +1,14 @@
+{
+  "query_id": "q_20260218_221058_616b35",
+  "claim": "india won t20i womens world cup in year 2020",
+  "label": "SUPPORTS",
+  "confidence": 0.9999980926513672,
+  "used_sentence_ids": [
+    "s_wiki_9_0",
+    "s_wiki_1_1",
+    "s_gnews_6_0",
+    "s_wiki_2_2",
+    "s_wiki_1_0"
+  ],
+  "num_evidence_used": 5
+}

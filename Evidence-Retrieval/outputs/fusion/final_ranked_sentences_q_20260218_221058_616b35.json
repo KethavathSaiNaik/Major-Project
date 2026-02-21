@@ -1,0 +1,66 @@
+{
+  "query_id": "q_20260218_221058_616b35",
+  "total_results": 5,
+  "results": [
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_9_0",
+      "final_score": 0.8084340917556117,
+      "bm25_score": 4.532723746084832,
+      "faiss_score": 0.7432670593261719,
+      "sentence_text": "The ICC Women's T20 World Cup is a biennial world cup for the sport of cricket in the T20I format.",
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Women's_T20_World_Cup"
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_1_1",
+      "final_score": 0.7792664718056515,
+      "bm25_score": 6.658685703636622,
+      "faiss_score": 0.30565086007118225,
+      "sentence_text": "It was held in every odd year from 2007 to 2009, and since 2010 has been held in every even year with the exception of 2018 and 2020.",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Men's_T20_World_Cup"
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_gnews_6_0",
+      "final_score": 0.7648611405683753,
+      "bm25_score": 4.672432305448924,
+      "faiss_score": 0.631923258304596,
+      "sentence_text": "India have been unbeaten in the last 11 T20 World Cup matches, which is a streak that began from the clash against Pakistan in the 2024 edition of the tournament in the June of that year.",
+      "doc_id": "gnews_6",
+      "source": "gnews",
+      "title": "India vs Netherlands, T20 World Cup Preview: Predicted XI, key players, pitch and weather report, where to watch",
+      "url": "https://www.cnbctv18.com/sports/india-vs-netherlands-t20-world-cup-preview-predicted-xi-key-players-pitch-and-weather-report-where-to-watch-19852322.htm"
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_2_2",
+      "final_score": 0.7474642336932908,
+      "bm25_score": 5.456229151582903,
+      "faiss_score": 0.4574125409126282,
+      "sentence_text": "The reigning champions are Argentina, who won their third title at the 2022 World Cup by defeating France.",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup"
+    },
+    {
+      "query_id": "q_20260218_221058_616b35",
+      "sentence_id": "s_wiki_1_0",
+      "final_score": 0.6643637506895155,
+      "bm25_score": 3.691468606469686,
+      "faiss_score": 0.60792475938797,
+      "sentence_text": "The ICC Men's T20 World Cup, formerly the ICC World Twenty20, is a biennial world cup for cricket in Twenty20 International (T20I) format, organised by the International Cricket Council (ICC).",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Men's_T20_World_Cup"
+    }
+  ]
+}

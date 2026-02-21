@@ -1,0 +1,14 @@
+{
+  "query_id": "q_20260218_222352_8db8ed",
+  "claim": "india won world cup in 2020\n",
+  "label": "REFUTES",
+  "confidence": 0.9999581575393677,
+  "used_sentence_ids": [
+    "s_wiki_1_0",
+    "s_wiki_3_2",
+    "s_wiki_2_0",
+    "s_wiki_2_2",
+    "s_wiki_5_2"
+  ],
+  "num_evidence_used": 5
+}
