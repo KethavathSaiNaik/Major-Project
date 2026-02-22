@@ -1,0 +1,247 @@
+{
+  "query_id": "q_20260209_145722_0f5430",
+  "query_text": "Australia is both a country and a continent",
+  "total_docs": 30,
+  "documents": [
+    {
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Australia (continent)",
+      "url": "https://en.wikipedia.org/wiki/Australia_(continent)",
+      "text": "The continent of Australia, sometimes known in technical contexts as Sahul, Australia-New Guinea, Australinea, or Meganesia to distinguish it from the country of Australia, is located within the Southern and Eastern hemispheres, near the Maritime Southeast Asia. The continent includes mainland Australia, Tasmania, the island of New Guinea, the Aru Islands, the Ashmore and Cartier Islands, most of the Coral Sea Islands, and some other nearby islands. Situated in the geographical region of Oceania, more specifically in the subregion of Australasia, Australia is the smallest of the seven traditional continents.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Continent",
+      "url": "https://en.wikipedia.org/wiki/Continent",
+      "text": "A continent is any of several large terrestrial geographical regions. Continents are generally identified by convention rather than any strict criteria. A continent could be a single large landmass, a landmass and nearby islands either on or beyond its continental shelf, or a part of a larger landmass, as in the case of Asia and Europe within Eurasia. Due to these varying definitions, the number of continents varies, up to seven or as few as four. Most English-speaking countries recognize seven continents. In order from largest to smallest in area, these seven are Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Different variations with fewer continents merge some of these regions; examples of this are merging Asia and Europe into Eurasia, North America and South America into the Americas, and Africa, Asia, and Europe into Afro-Eurasia.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Australia",
+      "text": "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. It has a total area of 7,688,287 km2 (2,968,464 sq mi), making it the sixth-largest country in the world and the largest in Oceania. Australia is the world's flattest and driest inhabited continent. It is a megadiverse country, and its size gives it a wide variety of landscapes and climates including deserts in the interior and tropical rainforests along the coast.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "Australian Labor Party",
+      "url": "https://en.wikipedia.org/wiki/Australian_Labor_Party",
+      "text": "The Australian Labor Party (ALP), also known simply as Labor, is the major social democratic and centre-left political party in Australia. Founded in 1891, it is the oldest political party in Australia and one of two major parties in Australian politics, its main rival being the Liberal Party of Australia.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "Country music",
+      "url": "https://en.wikipedia.org/wiki/Country_music",
+      "text": "Country music, also known as country and western or simply country, is a music genre known for its ballads and dance tunes, identifiable by both traditional lyrics and harmonies accompanied by banjos, mandolins, fiddles, harmonicas, and many types of guitar; either acoustic, electric, steel, or resonator guitars. Once called hillbilly music, the term country music was popularized in the 1940s to give it a correct term.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "Australians",
+      "url": "https://en.wikipedia.org/wiki/Australians",
+      "text": "Australians, colloquially known as Aussies, are the citizens, nationals and individuals associated with the country of Australia. This connection may be residential, legal, historical or ethno-cultural. For most Australians, several of these connections exist and are collectively the source of their being Australian. Australian law does not provide for any racial or ethnic component of nationality, instead relying on citizenship to define being an 'Australian'. Since the postwar period, Australia has pursued an official policy of multiculturalism and has the world's eighth-largest immigrant population, with immigrants accounting for 30 percent of the population in 2019.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "wiki_7",
+      "source": "wikipedia",
+      "title": "Australian Open",
+      "url": "https://en.wikipedia.org/wiki/Australian_Open",
+      "text": "The Australian Open is a tennis tournament organised by Tennis Australia annually at Melbourne Park in Melbourne, Victoria, Australia. It is the first of the four major tennis tournaments every year, held before the French Open, Wimbledon and the US Open.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "wiki_8",
+      "source": "wikipedia",
+      "title": "Australia (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Australia_(disambiguation)",
+      "text": "Australia is a country in the Southern Hemisphere.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "Australia Zoo",
+      "url": "https://en.wikipedia.org/wiki/Australia_Zoo",
+      "text": "The Australia Zoo, previously known as the Beerwah Reptile and Fauna Park and the Queensland Reptile and Fauna Park, is a zoo located in Beerwah, a suburb of the Sunshine Coast region in Queensland, Australia. Encompassing over 750 acres of bushland, 110 of which are open to the public, the zoo hosts over 1,200 animals. It was opened on 3 June 1970 by Bob and Lyn Irwin, and is a regional member of the Zoo and Aquarium Association (ZAA).",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "Kerala",
+      "url": "https://en.wikipedia.org/wiki/Kerala",
+      "text": "Kerala is a state of India on the Malabar Coast. It was formed on 1 November 1956 under the States Reorganisation Act, which unified the country's Malayalam-speaking regions into a single state. Covering 38,863 km2 (15,005 sq mi), it is bordered by Karnataka to the north and northeast, Tamil Nadu to the east and south, and the Laccadive Sea to the west. With 33 million inhabitants according to the 2011 census, Kerala is the 13th-most populous state in India. It is divided into 14 districts, with Thiruvananthapuram as the capital. Malayalam is the most widely spoken language and, along with English, serves as an official language of the state.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Global cancer statistics",
+      "url": "https://openalex.org/W2106787323",
+      "text": "The global burden of cancer continues to increase largely because of the aging and growth of the world population alongside an increasing adoption of cancer-causing behaviors, particularly smoking, in economically developing countries. Based on the GLOBOCAN 2008 estimates, about 12.7 million cancer cases and 7.6 million cancer deaths are estimated to have occurred in 2008; of these, 56% of the cases and 64% of the deaths occurred in the economically developing world. Breast cancer is the most frequently diagnosed cancer and the leading cause of cancer death among females, accounting for 23% of the total cancer cases and 14% of the cancer deaths. Lung cancer is the leading cancer site in males, comprising 17% of the total new cancer cases and 23% of the total cancer deaths. Breast cancer is now also the leading cause of cancer death among females in economically developing countries, a shift from the previous decade during which the most common cause of cancer death was cervical cancer. Further, the mortality burden for lung cancer among females in developing countries is as high as the burden for cervical cancer, with each accounting for 11% of the total female cancer deaths. Although overall cancer incidence rates in the developing world are half those seen in the developed world in both sexes, the overall cancer mortality rates are generally similar. Cancer survival tends to be poorer in developing countries, most likely because of a combination of a late stage at diagnosis and limited access to timely and standard treatment. A substantial proportion of the worldwide burden of cancer could be prevented through the application of existing cancer control knowledge and by implementing programs for tobacco control, vaccination (for liver and cervical cancers), and early detection and treatment, as well as public health campaigns promoting physical activity and a healthier dietary intake. Clinicians, public health professionals, and policy makers can play an active role in accelerating the application of such interventions globally.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "scholar_2",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Estimating the world cancer burden: Globocan 2000",
+      "url": "https://openalex.org/W2017352677",
+      "text": "Describing the distribution of disease between different populations and over time has been a highly successful way of devising hypotheses about causation and for quantifying the potential for preventive activities.1 Statistical data are also essential components of disease surveillance programs. These play a critical role in the development and implementation of health policy, through identification of health problems, decisions on priorities for preventive and curative programs and evaluation of outcomes of programs of prevention, early detection/screening and treatment in relation to resource inputs. Over the last 12 years, a series of estimates of the global burden of cancer have been published in the International Journal of Cancer.2-6 The methods have evolved and been refined, but basically they rely upon the best available data on cancer incidence and/or mortality at country level to build up the global picture. The results are more or less accurate for different countries, depending on the extent and accuracy of locally available data. This \"data-based\" approach is rather different from the modeling method used in other estimates.7-10 Essentially, these use sets of regression models, which predict cause-specific mortality rates of different populations from the corresponding all-cause mortality.11 The constants of the regression equations derive from datasets with different overall mortality rates (often including historic data from western countries). Cancer deaths are then subdivided into the different cancer types, according to the best available information on relative frequencies. GLOBOCAN 2000 updates the previously published data-based global estimates of incidence, mortality and prevalence to the year 2000.12 The data sources that have been used to build up the global estimates are as follows. Incidence, the number of new cases occurring, can be expressed as the annual number of cases (the volume of new patients presenting for treatment) or as a rate per 100,000 persons per year. Incidence data are produced by population-based cancer registries.13 Registries may cover national populations or, more often, certain regions. In developing countries in particular, coverage is often confined to the capital city and its environs. It was estimated that, in 1990, about 18% of the world population were covered by registries, 64% of developed countries and 5% of developing countries, although the situation is improving each year. The most recent volume of \"Cancer Incidence in Five Continents\" (CI5) contains comparable incidence information from 150 registries in 50 countries, primarily over the period 1988–1992.14 Survival statistics are also produced by cancer registries by the follow-up of registered cancer cases. Population-based figures are published by registries in many developed countries, for example, the SEER program covering 10% of the U.S. population15 and the EUROCARE II project, including 17 countries of Europe.16 Survival data from populations of China, the Philippines, Thailand, India and Cuba have been published by Sankaranarayanan et al.17 Mortality is the number of deaths occurring and the mortality rate the number of deaths per 100,000 persons per year. It is the product of incidence and fatality (the inverse of survival) of a given cancer. Mortality rates measure the average risk to the population of dying from a specific cancer, while fatality (1-survival) represents the probability that an individual with cancer will die from it. Mortality data are derived from vital registration systems, where the fact and \"underlying\" cause of death are certified, usually by a medical practitioner. Their great advantage is comprehensive coverage and availability. By 1990, about 42% of the world population was covered by vital registration systems producing mortality statistics on cancer. Not all are, however, of the same quality in all countries. National-level statistics are collated and made available by the World Health Organiztion (http://www-dep.iarc.fr/dataava/globocan/who.htm), although for some countries coverage of the population is manifestly incomplete (so that the so-called mortality rates produced are implausibly low) and in others, quality of cause of death information is poor. Frequency data, e.g., case series from hospitals and pathology laboratories, provide an indication of the relative importance of different cancers in a country or region in the absence of a population-based registry and mortality statistics. There are problems in extrapolating the results to the general population, since such series are subject to various forms of selection bias. Such data are generally published locally or in journal articles, although a few compendia are available.18, 19 Prevalence is the proportion of a population that has the disease at a given point in time.20 For many diseases (e.g., hypertension, diabetes), prevalence usefully describes the number of individuals requiring care. For cancer, however, many persons diagnosed in the past have been \"cured\"—they no longer have an excess risk of death (although some residual disability may be present, for example, following a resective operation). A straightforward comparison of need for cancer services can be made using partial prevalence, cases diagnosed within 1, 3 and 5 years, to indicate the numbers of persons undergoing initial treatment (cases within 1 year of diagnosis), clinical follow-up (within 3 years) or not considered \"cured\" (before 5 years). Patients alive 5 years after diagnosis are usually considered cured since, for most cancers, the death rates of such patients are similar to those in the general population. The methods used to produce the estimates are summarised in several recent articles.5, 6, 21, 22 The \"Help\" option of GLOBOCAN 2000 lists the sources of data and methods used for each country. National incidence data from good-quality cancer registries. National mortality data, with estimation of incidence using sets of regression models specific for site, sex and age, derived from local cancer registry data (incidence plus mortality). Local (regional) incidence data from 1 or more regional cancer registries within a country. When there are several cancer registries in the country, their incidence rates must be combined into a common set of values by some weighted average. Local mortality data from some sort of sample survey of deaths, converted to incidence using specific models. Frequency data. For several developing countries, only data on the relative frequency of different cancers (by age and sex) are available. These are applied to an estimated \"all sites\" incidence rate, derived from existing cancer registry results, in 7 world regions (Eastern Africa, Middle Africa, Northern Africa, Southern Africa, Western Africa, Middle East and Other Oceania). No data. The country-specific rates are those of the corresponding world area (calculated from the other countries for which estimates could be made). There are few large countries that fall into this category. Those with a population greater than 10 million were Morocco, Afghanistan, Nepal, Sri Lanka, Mozambique, Madagascar and Yemen. National mortality rates, with for some countries a correction factor applied to account for known and quantified underreporting of deaths. Rates for missing sites were computed using proportions from mortality files provided by cancer registries. When no national mortality data are available, local (regional) mortality rates derived from the data of 1 or more cancer registries covering a part of a country (state, province, etc.) were used. When mortality data were unavailable or known to be of poor quality, mortality was estimated from incidence, using country/region-specific survival (see prevalence data). In the absence of any data, country-specific rates are calculated from the average of those of neighbouring countries in the same regions. Estimates of partial prevalence in each country were derived by combining the annual number of new cases and the corresponding probability of survival by time. For example, 1-year prevalence at a fixed point in mid-2000 was estimated from the number of new cases in 2000 multiplied by the probability of surviving at least 6 months, and 3-year prevalence sums the numbers alive at 0.5, 1.5 and 2.5 years. Relative survival data were obtained from the sources cited above and converted to observed survival using \"normal\" mortality probability (derived from the corresponding life tables). The shape of the survival curve from 0 to 5 years postdiagnosis was assumed to follow a Weibull distribution.22 GLOBOCAN 2000 presents incidence, mortality and prevalence data for 5 broad age groups (0–14, 15–44, 45–54, 55–64 and 65 and over) and sex for all countries of the world for 24 different types of cancer. Since cancer data are collected and compiled sometime after the events to which they relate, the most recent statistics available are from periods from 3–10 years earlier. The actual number of cancer cases, deaths and prevalent cases are calculated by applying these rates to the estimated world population for 2000, obtained from the most recent projections prepared by the United Nations Population Division.23 On the CD-ROM are computer programs to analyse and present the cancer database. The database itself may be downloaded from the Internet (http://www-dep.iarc.fr/globocan/globocan.htm). This site contains the most recently available estimates of the incidence and mortality rates in different countries worldwide. GLOBOCAN 2000 can present the statistics described at any level of geographical aggregation and in tabular or graphical format (maps, bar charts, age-specific curves and pie charts). Some examples of these graphical presentations are shown on the cover of this issue. Tabulations of numbers and rates may also be displayed and printed. Incorporation of population projections for 5-year intervals, from 2005 to 2050,23 allows GLOBOCAN 2000 to be used to prepare projections of future burden, assuming current rates of incidence and mortality, or incorporating age/sex-specific rates of change in the rates. Table I shows the most basic summary data of all—the global numbers of cases, deaths and prevalent cancers (within 5 years of diagnosis) by cancer site in males, females and both sexes. There are an estimated 10.1 million new cases, 6.2 million deaths and 22.4 million persons living with cancer in the year 2000. No attempt has been made to estimate incidence or mortality of nonmelanoma skin cancer because of the difficulties of measurement and consequent lack of data. The total \"All Cancer\" therefore excludes such tumours. The 2000 estimate represents an increase of around 22% in incidence and mortality since our most recent comprehensive estimates (for 1990). Lung cancer is the main cancer in the world today, whether considered in terms of numbers of cases (1.2 million) or deaths (1.1 million), because of the high case fatality (ratio of mortality:incidence = 0.9). However, breast cancer, although it is the second most common cancer overall (1.05 million new cases) ranks much less highly (5th) as a cause of death because of the relatively favourable prognosis (ratio of mortality:incidence = 0.4). Colon plus rectum is third in importance in terms of new cases (945,000 cases, 492,000 deaths), and stomach cancer (876,000 cases, 647,000 deaths) fourth. In terms of prevalence, the most common cancers are breast (3.9 million breast cancer cases), colorectal cancers (2.4 million) and prostate (1.6 million). The ratio between prevalence and incidence is an indicator of prognosis. This explains why breast cancer appears as the most prevalent cancer in the world, despite there being fewer new cases than for lung cancer, for which the outlook is considerably poorer. Table II shows incidence rates for all cancers (excluding skin) by world area and sex. Two indices are used, the age standardized rate per 100,000 (standardized to the world standard population) and the cumulative rate (percent), from birth to age 65. Both of these indicators allow comparisons between populations that are not influenced by differences in their age structures. Age standardized rates in developed countries are about twice those in developing countries; the differential is less for the cumulative rate, which ignores disease rates in the 65 and over age groups. On average, worldwide, there is about a 10% chance of getting a cancer before age 65. Incidence (and mortality) rates are highest in North America, Australia/New Zealand and Western Europe, and lowest in parts of Africa. This overall risk is, of course, dependent upon the contributions of different types of cancer. For example, in West Africa, incidence of almost all cancers is low (except for cervix cancer in women and liver cancer in men). This contrasts with Southern Africa, which has, in addition, high rates of lung and oesophagus cancer, and with East Africa, with high rates of AIDS-related tumours, notably Kaposi's sarcoma. The statistics used to assess the importance (burden) of cancer and of different types of cancer in the population either quantify the disease itself (the \"need\" for services) or the demand that it places upon them.24 Incidence rates provide a measure of the risk of developing specific cancers in different populations. Changes in incidence are the appropriate indicator of the impact of primary prevention strategies. Mortality rates are sometimes used as a convenient proxy measure of the risk of acquiring the disease (incidence) when comparing different groups, since they may be more generally available. However, this use assumes equal survival in the populations being compared, and this assumption may well be incorrect, for example, there are well-documented differences between countries. Mortality does provide an unambiguous measure of the outcome or impact of cancer and, used in conjunction with data on incidence, is the index of choice for the evaluation of the effects of early diagnosis or treatment. Prevalence, as the number of persons ever diagnosed with cancer (lifetime prevalence), does not have much apparent utility. The data can be derived from cancer registries that have very long-term registration of cases and complete follow-up for vital status over many years.25, 26 Population surveys are another approach, although they underestimate true prevalence.27 In the absence of complete data, an estimate can be prepared using models that incorporate longtime series of incidence and survival.28, 29 Other workers have attempted to define the proportion and timing of \"cure\" for different cancers, so that only patients not cured are considered prevalent.30 The data needed for such calculations are rarely available, however, and, for international comparisons, a simpler approach is needed. Partial prevalence, as estimated in GLOBOCAN, as well as approximating the numbers of patients under treatment or follow-up, does not require long time series of incidence or survival data (or a further set of assumptions required to estimate them). Compound indicators, which use information on the duration or severity of disease, have a genuine utility in setting priorities within health-care systems. They include person-years of life lost (how many years of normal life span are lost due to deaths from cancer)31 and disability or quality-adjusted life-years lost.32, 33 The latter measures require that a numerical score is given to the years lived with a reduced quality of life between diagnosis and death (where quality = 0) or cure (quality = 1). The problem with such indicators, however, is that there is simply insufficient quantitative information on quality or disability following a cancer diagnosis in different cultures (or countries) worldwide to permit calculation of valid comparative statistics. The GLOBOCAN estimates of incidence, mortality and (5-year) prevalence help to define priorities for cancer control program (prevention and treatment, aided by early detection, if appropriate). For countries with well-established sources of data, changes in the estimates over time indicate progress against cancer. Incidence trends can monitor the success of prevention and the success of treatment (resulting from earlier diagnosis or more effective therapies). In addition, the geographic patterns of cancer internationally serve one of the classic roles of descriptive epidemiology: observing whether the distribution of specific cancers follows the patterns expected from the distribution of known risk factors between populations or whether there are apparent anomalies that merit further investigation. GLOBOCAN 2000 incorporates the best currently available national statistics, but as information systems extend to all countries of the world and improve their coverage and accuracy, we expect that our knowledge of the world cancer burden will improve and so too will our ability to mount effective strategies against it.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Thyroid cancer mortality and incidence: A global overview",
+      "url": "https://openalex.org/W1720744388",
+      "text": "In most areas of the world, thyroid cancer incidence has been appreciably increasing over the last few decades, whereas mortality has steadily declined. We updated global trends in thyroid cancer mortality and incidence using official mortality data from the World Health Organization (1970–2012) and incidence data from the Cancer Incidence in Five Continents (1960–2007). Male mortality declined in all the major countries considered, with annual percent changes around −2/−3% over the last decades. Only in the United States mortality declined up to the mid 1980s and increased thereafter. Similarly, in women mortality declined in most countries considered, with APCs around −2/−5% over the last decades, with the exception of the UK, the United States and Australia, where mortality has been declining up to the late 1980s/late 1990s to level off (or increase) thereafter. In 2008–2012, most countries had mortality rates (age‐standardized, world population) between 0.20 and 0.40/100,000 men and 0.20 and 0.60/100,000 women, the highest rates being in Latvia, Hungary, the Republic of Moldova and Israel (over 0.40/100,000) for men and in Ecuador, Colombia and Israel (over 0.60/100,000) for women. In most countries, a steady increase in the incidence of thyroid cancer (mainly papillary carcinomas) was observed in both sexes. The declines in thyroid cancer mortality reflect both variations in risk factor exposure and changes in the diagnosis and treatment of the disease, while the increases in the incidence are likely due to the increase in the detection of this neoplasm over the last few decades.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Global cancer statistics, 2012",
+      "url": "https://openalex.org/W2917837889",
+      "text": "Abstract Cancer constitutes an enormous burden on society in more and less economically developed countries alike. The occurrence of cancer is increasing because of the growth and aging of the population, as well as an increasing prevalence of established risk factors such as smoking, overweight, physical inactivity, and changing reproductive patterns associated with urbanization and economic development. Based on GLOBOCAN estimates, about 14.1 million new cancer cases and 8.2 million deaths occurred in 2012 worldwide. Over the years, the burden has shifted to less developed countries, which currently account for about 57% of cases and 65% of cancer deaths worldwide. Lung cancer is the leading cause of cancer death among males in both more and less developed countries, and has surpassed breast cancer as the leading cause of cancer death among females in more developed countries; breast cancer remains the leading cause of cancer death among females in less developed countries. Other leading causes of cancer death in more developed countries include colorectal cancer among males and females and prostate cancer among males. In less developed countries, liver and stomach cancer among males and cervical cancer among females are also leading causes of cancer death. Although incidence rates for all cancers combined are nearly twice as high in more developed than in less developed countries in both males and females, mortality rates are only 8% to 15% higher in more developed countries. This disparity reflects regional differences in the mix of cancers, which is affected by risk factors and detection practices, and/or the availability of treatment. Risk factors associated with the leading causes of cancer death include tobacco use (lung, colorectal, stomach, and liver cancer), overweight/obesity and physical inactivity (breast and colorectal cancer), and infection (liver, stomach, and cervical cancer). A substantial portion of cancer cases and deaths could be prevented by broadly applying effective prevention measures, such as tobacco control, vaccination, and the use of early detection tests. CA Cancer J Clin 2015;65: 87–108. © 2015 American Cancer Society.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "scholar_5",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Sea Surface Temperatures and Australian Winter Rainfall",
+      "url": "https://openalex.org/W1997106142",
+      "text": "A rotated principal component analysis of Australian winter (June–August) rainfall revealed two large-scale patterns of variation which together accounted for more than half of the total rainfall variance. The first pattern was a broadband stretching from the northwest to the southeast corners of the country. The second was centered in the eastern third of the continent. The two patterns were correlated to sea surface temperatures in the Indian and Pacific oceans. The first rainfall pattern was best related to the difference in sea temperatures between the Indonesian region and the central Indian Ocean. The second rainfall pattern was related to equatorial Pacific sea surface temperatures. This relationship reflects the influence of the Southern Oscillation on both sea surface temperatures and Australian rainfall but the relationship between the first rainfall pattern and the difference between Indonesian and central Indian Ocean sea surface temperatures is largely independent of the Southern Oscillation. This sea surface temperature difference may be another factor influencing Australian rainfall, some-what separate from the well-known effect of the Southern Oscillation.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "scholar_6",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Is gastric cancer becoming a rare disease? A global assessment of predicted incidence trends to 2035",
+      "url": "https://openalex.org/W3004181286",
+      "text": "Objectives The incidence of gastric cancer continues to decrease globally, approaching levels that in some populations could define it as a rare disease. To explore this on a wider scale, we predict its future burden in 34 countries with long-standing population-based data. Methods Data on gastric cancer incidence by year of diagnosis, sex and age were extracted for 92 cancer registries in 34 countries included in Cancer Incidence in Five Continents Plus. Numbers of new cases and age-standardised incidence rates (ASR per 100 000) were predicted up to 2035 by fitting and extrapolating age–period–cohort models. Results Overall gastric cancer incidence rates are predicted to continue falling in the future in the majority of countries, including high-incidence countries such as Japan (ASR 36 in 2010 vs ASR 30 in 2035) but also low-incidence countries such as Australia (ASR 5.1 in 2010 vs ASR 4.6 in 2035). A total of 16 countries are predicted to fall below the rare disease threshold (defined as 6 per 100 000 person-years) by 2035, while the number of newly diagnosed cases remains high and is predicted to continue growing. In contrast, incidence increases were seen in younger age groups (below age 50 years) in both low-incidence and high-incidence populations. Conclusions While gastric cancer is predicted to become a rare disease in a growing number of countries, incidence levels remain high in some regions, and increasing risks have been observed in younger generations. The predicted growing number of new cases highlights that gastric cancer remains a major challenge to public health on a global scale.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Global prevalence of cerebral palsy: A systematic analysis",
+      "url": "https://openalex.org/W4291011402",
+      "text": "Abstract Aim To determine trends and current estimates in regional and global prevalence of cerebral palsy (CP). Method A systematic analysis of data from participating CP registers/surveillance systems and population‐based prevalence studies (from birth year 1995) was performed. Quality and risk of bias were assessed for both data sources. Analyses were conducted for pre‐/perinatal, postnatal, neonatal, and overall CP. For each region, trends were statistically classified as increasing, decreasing, heterogeneous, or no change, and most recent prevalence estimates with 95% confidence intervals (CI) were calculated. Meta‐analyses were conducted to determine current birth prevalence estimates (from birth year 2010). Results Forty‐one regions from 27 countries across five continents were represented. Pre‐/perinatal birth prevalence declined significantly across Europe and Australia (11 out of 14 regions), with no change in postneonatal CP. From the limited but increasing data available from regions in low‐ and middle‐income countries (LMICs), birth prevalence for pre‐/perinatal CP was as high as 3.4 per 1000 (95% CI 3.0–3.9) live births. Following meta‐analyses, birth prevalence for pre‐/perinatal CP in regions from high‐income countries (HICs) was 1.5 per 1000 (95% CI 1.4–1.6) live births, and 1.6 per 1000 (95% CI 1.5–1.7) live births when postneonatal CP was included. Interpretation The birth prevalence estimate of CP in HICs declined to 1.6 per 1000 live births. Data available from LMICs indicated markedly higher birth prevalence. What this paper adds • Birth prevalence of pre‐/perinatal cerebral palsy (CP) in high‐income countries (HICs) is decreasing. • Current overall CP birth prevalence for HICs is 1.6 per 1000 live births. • Trends in low‐ and middle‐income countries (LMICs) cannot currently be measured. • Current birth prevalence in LMICs is markedly higher than in HICs. • Active surveillance of CP helps to assess the impact of medical advancements and social/economic development. • Population‐based data on prevalence and trends of CP are critical to inform policy.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "scholar_8",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Global Cancer Statistics, 2002",
+      "url": "https://openalex.org/W2020830322",
+      "text": "Estimates of the worldwide incidence, mortality and prevalence of 26 cancers in the year 2002 are now available in the GLOBOCAN series of the International Agency for Research on Cancer. The results are presented here in summary form, including the geographic variation between 20 large \"areas\" of the world. Overall, there were 10.9 million new cases, 6.7 million deaths, and 24.6 million persons alive with cancer (within three years of diagnosis). The most commonly diagnosed cancers are lung (1.35 million), breast (1.15 million), and colorectal (1 million); the most common causes of cancer death are lung cancer (1.18 million deaths), stomach cancer (700,000 deaths), and liver cancer (598,000 deaths). The most prevalent cancer in the world is breast cancer (4.4 million survivors up to 5 years following diagnosis). There are striking variations in the risk of different cancers by geographic area. Most of the international variation is due to exposure to known or suspected risk factors related to lifestyle or environment, and provides a clear challenge to prevention.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "scholar_9",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries",
+      "url": "https://openalex.org/W4393935425",
+      "text": "Abstract This article presents global cancer statistics by world region for the year 2022 based on updated estimates from the International Agency for Research on Cancer (IARC). There were close to 20 million new cases of cancer in the year 2022 (including nonmelanoma skin cancers [NMSCs]) alongside 9.7 million deaths from cancer (including NMSC). The estimates suggest that approximately one in five men or women develop cancer in a lifetime, whereas around one in nine men and one in 12 women die from it. Lung cancer was the most frequently diagnosed cancer in 2022, responsible for almost 2.5 million new cases, or one in eight cancers worldwide (12.4% of all cancers globally), followed by cancers of the female breast (11.6%), colorectum (9.6%), prostate (7.3%), and stomach (4.9%). Lung cancer was also the leading cause of cancer death, with an estimated 1.8 million deaths (18.7%), followed by colorectal (9.3%), liver (7.8%), female breast (6.9%), and stomach (6.8%) cancers. Breast cancer and lung cancer were the most frequent cancers in women and men, respectively (both cases and deaths). Incidence rates (including NMSC) varied from four‐fold to five‐fold across world regions, from over 500 in Australia/New Zealand (507.9 per 100,000) to under 100 in Western Africa (97.1 per 100,000) among men, and from over 400 in Australia/New Zealand (410.5 per 100,000) to close to 100 in South‐Central Asia (103.3 per 100,000) among women. The authors examine the geographic variability across 20 world regions for the 10 leading cancer types, discussing recent trends, the underlying determinants, and the prospects for global cancer prevention and control. With demographics‐based predictions indicating that the number of new cases of cancer will reach 35 million by 2050, investments in prevention, including the targeting of key risk factors for cancer (including smoking, overweight and obesity, and infection), could avert millions of future cancer diagnoses and save many lives worldwide, bringing huge economic as well as societal dividends to countries over the forthcoming decades.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar SS",
+      "title": "Australia: A Continent Without Native Powdery Mildews? The First Comprehensive Catalog Indicates Recent Introductions and Multiple Host Range Expansion Events, and Leads to the Re-discovery of Salmonomyces as a New Lineage of the Erysiphales",
+      "url": "https://www.semanticscholar.org/paper/acd78ec6ae5e0b90876a4337165b84503ea3673a",
+      "text": "In contrast to Eurasia and North America, powdery mildews (Ascomycota, Erysiphales) are understudied in Australia. There are over 900 species known globally, with fewer than currently 60 recorded from Australia. Some of the Australian records are doubtful as the identifications were presumptive, being based on host plant-pathogen lists from overseas. The goal of this study was to provide the first comprehensive catalog of all powdery mildew species present in Australia. The project resulted in (i) an up-to-date list of all the taxa that have been identified in Australia based on published DNA barcode sequences prior to this study; (ii) the precise identification of 117 specimens freshly collected from across the country; and (iii) the precise identification of 30 herbarium specimens collected between 1975 and 2013. This study confirmed 42 species representing 10 genera, including two genera and 13 species recorded for the first time in Australia. In Eurasia and North America, the number of powdery mildew species is much higher. Phylogenetic analyses of powdery mildews collected from Acalypha spp. resulted in the transfer of Erysiphe acalyphae to Salmonomyces, a resurrected genus. Salmonomyces acalyphae comb. nov. represents a newly discovered lineage of the Erysiphales. Another taxonomic change is the transfer of Oidium ixodiae to Golovinomyces. Powdery mildew infections have been confirmed on 13 native Australian plant species in the genera Acacia, Acalypha, Cephalotus, Convolvulus, Eucalyptus, Hardenbergia, Ixodia, Jagera, Senecio, and Trema. Most of the causal agents were polyphagous species that infect many other host plants both overseas and in Australia. All powdery mildews infecting native plants in Australia were phylogenetically closely related to species known overseas. The data indicate that Australia is a continent without native powdery mildews, and most, if not all, species have been introduced since the European colonization of the continent.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "gnews_1",
+      "source": "gnews",
+      "title": "Experts name NAB and these ASX 200 shares as sells",
+      "url": "https://www.fool.com.au/2026/02/09/experts-name-nab-and-these-asx-200-shares-as-sells/",
+      "text": "National Australia Bank Ltd (ASX: NAB) and these ASX 200 shares have been named as sells this week. Let's see why they are bearish...",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "gnews_2",
+      "source": "gnews",
+      "title": "Ultra-affordable Chinese SUV returns: 2026 MG ZS base grade reintroduced to lead budget battle against Chery Tiggo 4, GWM Haval Jolion and Mahindra XUV3XO",
+      "url": "https://www.canberratimes.com.au/story/9169713/ultra-affordable-chinese-suv-returns-2026-mg-zs-base-grade-reintroduced-to-lead-budget-battle-against-chery-tiggo-4-gwm-haval-jolion-and-mahindra-xuv3xo/",
+      "text": "The cheapest MG ZS grade has just been re-introduced, with the base Vibe back on sale in Australia.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "gnews_3",
+      "source": "gnews",
+      "title": "Australia sensationally knocked out by Ecuador in Davis Cup boilover",
+      "url": "https://7news.com.au/sport/tennis/australia-sensationally-knocked-out-by-ecuador-in-davis-cup-boilover-c-21572897",
+      "text": "Lleyton Hewitt is counting the cost of his worst defeat as captain, to a rival nation without a top-200 player.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "gnews_4",
+      "source": "gnews",
+      "title": "Countries Across Europe Take Action to Ban Social Media for Minors",
+      "url": "https://gizmodo.com/countries-across-europe-take-action-to-ban-social-media-for-minors-2000719321",
+      "text": "At least 15 governments on the continent are planning social media bans inspired by Australia.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "gnews_5",
+      "source": "gnews",
+      "title": "What to know about the Israeli president’s state visit to Australia",
+      "url": "https://wtop.com/australia/2026/02/what-to-know-about-the-israeli-presidents-state-visit-to-australia/",
+      "text": "MELBOURNE, Australia (AP) — The stated purpose of Israel President Isaac Herzog’s visit to Australia is to support the Jewish community still reeling from an…",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "gnews_6",
+      "source": "gnews",
+      "title": "'Darkness and screaming winds': Cyclone Mitchell pummels West Australia's coast",
+      "url": "https://www.sbs.com.au/news/article/cyclone-mitchell-downgraded-but-continues-to-pummel-west-australias-coast/xzlcxq7rb",
+      "text": "The level two system is bringing with it winds of up to 170km per hour, heavy rainfall and flash flooding as it tracks toward Exmouth.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "gnews_7",
+      "source": "gnews",
+      "title": "What to know about the Israeli president's state visit to Australia",
+      "url": "https://apnews.com/article/israel-president-isaac-herzog-australia-jewish-antisemitism-fb791dafe901685e6fbc6e3d3cc9441d",
+      "text": "Israel President Isaac Herzog visits Australia to support the Jewish community after an antisemitic attack at Sydney’s Bondi Beach left 15 dead.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "gnews_8",
+      "source": "gnews",
+      "title": "What to know about the Israeli president’s state visit to Australia",
+      "url": "https://www.baltimoresun.com/2026/02/08/what-to-know-about-the-israeli-presidents-state-visit-to-australia/",
+      "text": "By ROD McGUIRK MELBOURNE, Australia (AP) — The stated purpose of Israel President Isaac Herzog’s visit to Australia is to support the Jewish community still reeling from an antisemitic attack at Sydney’s Bondi Beach that left 15 dead. But his critics warn his presence undermines rather than repairs social cohesion frayed by the far away […]",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "gnews_9",
+      "source": "gnews",
+      "title": "What to know about the Israeli president’s state visit to Australia",
+      "url": "https://www.pilotonline.com/2026/02/08/what-to-know-about-the-israeli-presidents-state-visit-to-australia/",
+      "text": "The stated purpose of Israel President Isaac Herzog’s visit to Australia is to support the Jewish community still reeling from an antisemitic attack at Sydney’s Bondi Beach that left 15 dead. But his critics warn his presence undermines rather than repairs social cohesion frayed by the far away war in Gaza.",
+      "query_id": "q_20260209_145722_0f5430"
+    },
+    {
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "Here's the earnings forecast out to 2029 for CBA shares",
+      "url": "https://www.fool.com.au/2026/02/09/heres-the-earnings-forecast-out-to-2029-for-cba-shares-3/",
+      "text": "Do you own Commonwealth Bank of Australia (ASX: CBA) shares? Here's the profit projection out to 2029 for the ASX bank share.",
+      "query_id": "q_20260209_145722_0f5430"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "query_id": "q_20260209_145722_0f5430",
+  "claim": "Australia is both a country and a continent",
+  "label": "SUPPORTS",
+  "confidence": 1.0,
+  "used_sentence_ids": [
+    "s_wiki_3_0",
+    "s_wiki_8_0",
+    "s_wiki_3_2",
+    "s_scholar_10_15",
+    "s_wiki_1_0"
+  ],
+  "num_evidence_used": 5
+}

@@ -1,0 +1,66 @@
+{
+  "query_id": "q_20260209_145722_0f5430",
+  "total_results": 5,
+  "results": [
+    {
+      "query_id": "q_20260209_145722_0f5430",
+      "sentence_id": "s_wiki_3_0",
+      "final_score": 1.0,
+      "bm25_score": 12.96992727167989,
+      "faiss_score": 0.7270707488059998,
+      "sentence_text": "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Australia"
+    },
+    {
+      "query_id": "q_20260209_145722_0f5430",
+      "sentence_id": "s_wiki_8_0",
+      "final_score": 0.9092275142065982,
+      "bm25_score": 11.040662142240379,
+      "faiss_score": 0.7240317463874817,
+      "sentence_text": "Australia is a country in the Southern Hemisphere.",
+      "doc_id": "wiki_8",
+      "source": "wikipedia",
+      "title": "Australia (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Australia_(disambiguation)"
+    },
+    {
+      "query_id": "q_20260209_145722_0f5430",
+      "sentence_id": "s_wiki_3_2",
+      "final_score": 0.8370117088764557,
+      "bm25_score": 10.050460764676098,
+      "faiss_score": 0.6713373064994812,
+      "sentence_text": "Australia is the world's flattest and driest inhabited continent.",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Australia"
+    },
+    {
+      "query_id": "q_20260209_145722_0f5430",
+      "sentence_id": "s_scholar_10_15",
+      "final_score": 0.8029389073470722,
+      "bm25_score": 10.433745769133647,
+      "faiss_score": 0.5679689049720764,
+      "sentence_text": "The data indicate that Australia is a continent without native powdery mildews, and most, if not all, species have been introduced since the European colonization of the continent.",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar SS",
+      "title": "Australia: A Continent Without Native Powdery Mildews? The First Comprehensive Catalog Indicates Recent Introductions and Multiple Host Range Expansion Events, and Leads to the Re-discovery of Salmonomyces as a New Lineage of the Erysiphales",
+      "url": "https://www.semanticscholar.org/paper/acd78ec6ae5e0b90876a4337165b84503ea3673a"
+    },
+    {
+      "query_id": "q_20260209_145722_0f5430",
+      "sentence_id": "s_wiki_1_0",
+      "final_score": 0.7861796738837146,
+      "bm25_score": 8.682171442189103,
+      "faiss_score": 0.696212112903595,
+      "sentence_text": "The continent of Australia, sometimes known in technical contexts as Sahul, Australia-New Guinea, Australinea, or Meganesia to distinguish it from the country of Australia, is located within the Southern and Eastern hemispheres, near the Maritime Southeast Asia.",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Australia (continent)",
+      "url": "https://en.wikipedia.org/wiki/Australia_(continent)"
+    }
+  ]
+}
