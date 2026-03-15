@@ -1,0 +1,191 @@
+{
+  "query_id": "q_20260315_163109_18b0dc",
+  "query_text": "Deep learning models cannot detect brain tumors using MRI scans.",
+  "total_docs": 23,
+  "documents": [
+    {
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "CT scan",
+      "url": "https://en.wikipedia.org/wiki/CT_scan",
+      "text": "A computed tomography scan, formerly called computed axial tomography scan, is a medical imaging technique used to obtain detailed internal images of the body. The personnel that perform CT scans are called radiographers or radiology technologists.\n\nCT scanners use a rotating X-ray tube and a row of detectors placed in a gantry to measure X-ray attenuations by different tissues inside the body. The multiple X-ray measurements taken from different angles are then processed on a computer using tomographic reconstruction algorithms to produce tomographic (cross-sectional) images of a body. CT scans can be used in patients with metallic implants or pacemakers, for whom magnetic resonance imaging (MRI) is contraindicated.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Brain tumor",
+      "url": "https://en.wikipedia.org/wiki/Brain_tumor",
+      "text": "A brain tumor occurs when a group of cells within the brain grow out of control, creating a mass. There are two main types of tumors: malignant (cancerous) tumors and benign (non-cancerous) tumors. These can be further classified as primary tumors, which start within the brain, and secondary tumors, which most commonly have spread from tumors located outside the brain, known as brain metastasis tumors. All types of brain tumors may produce symptoms that vary depending on the size of the tumor and the part of the brain that is involved. Where symptoms exist, they may include headaches, seizures, problems with vision, vomiting and mental changes. Other symptoms may include difficulty walking, speaking, with sensations, or unconsciousness.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "Deep learning",
+      "url": "https://en.wikipedia.org/wiki/Deep_learning",
+      "text": "In machine learning, deep learning (DL) focuses on utilizing multilayered neural networks to perform tasks such as classification, regression, and representation learning. The field takes inspiration from biological neuroscience and revolves around stacking artificial neurons into layers and \"training\" them to process data. The adjective \"deep\" refers to the use of multiple layers in the network. Methods used can be supervised, semi-supervised or unsupervised.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "Deep learning speech synthesis",
+      "url": "https://en.wikipedia.org/wiki/Deep_learning_speech_synthesis",
+      "text": "Deep learning speech synthesis refers to the application of deep learning models to generate natural-sounding human speech from written text (text-to-speech) or spectrum (vocoder). Deep neural networks are trained using large amounts of recorded speech and, in the case of a text-to-speech system, the associated labels and/or input text.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "List of people with brain tumors",
+      "url": "https://en.wikipedia.org/wiki/List_of_people_with_brain_tumors",
+      "text": "\n\nA brain tumor is an abnormal growth of cells within the brain or inside the skull, and can be cancerous (malignant) or non-cancerous (benign). Just over half of all primary brain tumors are malignant; the rest are benign, though they may still be life-threatening. In the United States in 2000, survivors of benign primary brain tumors outnumbered those who had cancerous primary brain tumors by approximately 4:1. Metastatic brain cancer is over six times more common than primary brain cancer, as it occurs in about 10–30% of all people with cancer.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "Canine brain tumors",
+      "url": "https://en.wikipedia.org/wiki/Canine_brain_tumors",
+      "text": "Cancer of the nervous system is common in domestic canids, and includes primary neoplasia of the peripheral nervous system, primary neoplasia of the central nervous system and various metastatic cancers. Some of the most common of the central nervous system tumors are several types of primary canine brain tumors. Examples of these include: meningiomas, astrocytomas, glioblastomas, oligodendromas, choroid plexus papillomas, and pituitary adenomas. Breeds predisposed to brain tumors include: Boxer Dog, Pug, English Bull Dog, Boston Terrier, and Golden Retrievers.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "wiki_7",
+      "source": "wikipedia",
+      "title": "Benign tumor",
+      "url": "https://en.wikipedia.org/wiki/Benign_tumor",
+      "text": "A benign tumor is a mass of cells (tumor) that does not invade neighboring tissue or metastasize. Compared to malignant (cancerous) tumors, benign tumors generally have a slower growth rate. Benign tumors have relatively well differentiated cells. They are often surrounded by an outer surface or stay contained within the epithelium. Common examples of benign tumors include moles and uterine fibroids.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "wiki_8",
+      "source": "wikipedia",
+      "title": "Ensemble learning",
+      "url": "https://en.wikipedia.org/wiki/Ensemble_learning",
+      "text": "In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone.\nUnlike a statistical ensemble in statistical mechanics, which is usually infinite, a machine learning ensemble consists of only a concrete finite set of alternative models, but typically allows for much more flexible structure to exist among those alternatives.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "Brain",
+      "url": "https://en.wikipedia.org/wiki/Brain",
+      "text": "The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. It consists of nervous tissue and is typically located in the head (cephalization), usually near organs for special senses such as vision, hearing, and olfaction. Being the most specialized organ, it is responsible for receiving information from the sensory nervous system, processing that information and the coordination of motor control.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "Bone tumor",
+      "url": "https://en.wikipedia.org/wiki/Bone_tumor",
+      "text": "A bone tumor is an abnormal growth of tissue in bone, traditionally classified as noncancerous (benign) or cancerous (malignant). Cancerous bone tumors usually originate from a cancer in another part of the body such as from lung, breast, thyroid, kidney and prostate. There may be a lump, pain, or neurological signs from pressure. A bone tumor might present with a pathologic fracture. Other symptoms may include fatigue, fever, weight loss, anemia and nausea. Sometimes there are no symptoms and the tumour is found when investigating another problem.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "A survey on Image Data Augmentation for Deep Learning",
+      "url": "https://openalex.org/W2954996726",
+      "text": "Deep convolutional neural networks have performed remarkably well on many Computer Vision tasks. However, these networks are heavily reliant on big data to avoid overfitting. Overfitting refers to the phenomenon when a network learns a function with very high variance such as to perfectly model the training data. Unfortunately, many application domains do not have access to big data, such as medical image analysis. This survey focuses on Data Augmentation, a data-space solution to the problem of limited data. Data Augmentation encompasses a suite of techniques that enhance the size and quality of training datasets such that better Deep Learning models can be built using them. The image augmentation algorithms discussed in this survey include geometric transformations, color space augmentations, kernel filters, mixing images, random erasing, feature space augmentation, adversarial training, generative adversarial networks, neural style transfer, and meta-learning. The application of augmentation methods based on GANs are heavily covered in this survey. In addition to augmentation techniques, this paper will briefly discuss other characteristics of Data Augmentation such as test-time augmentation, resolution impact, final dataset size, and curriculum learning. This survey will present existing methods for Data Augmentation, promising developments, and meta-level decisions for implementing Data Augmentation. Readers will understand how Data Augmentation can improve the performance of their models and expand limited datasets to take advantage of the capabilities of big data.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "scholar_2",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)",
+      "url": "https://openalex.org/W1641498739",
+      "text": "In this paper we report the set-up and results of the Multimodal Brain Tumor Image Segmentation Benchmark (BRATS) organized in conjunction with the MICCAI 2012 and 2013 conferences. Twenty state-of-the-art tumor segmentation algorithms were applied to a set of 65 multi-contrast MR scans of low- and high-grade glioma patients-manually annotated by up to four raters-and to 65 comparable scans generated using tumor image simulation software. Quantitative evaluations revealed considerable disagreement between the human raters in segmenting various tumor sub-regions (Dice scores in the range 74%-85%), illustrating the difficulty of this task. We found that different algorithms worked best for different sub-regions (reaching performance comparable to human inter-rater variability), but that no single algorithm ranked in the top for all sub-regions simultaneously. Fusing several good algorithms using a hierarchical majority vote yielded segmentations that consistently ranked above all individual algorithms, indicating remaining opportunities for further methodological improvements. The BRATS image data and manual annotations continue to be publicly available through an online evaluation system as an ongoing benchmarking resource.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+      "url": "https://openalex.org/W3140854437",
+      "text": "In the last few years, the deep learning (DL) computing paradigm has been deemed the Gold Standard in the machine learning (ML) community. Moreover, it has gradually become the most widely used computational approach in the field of ML, thus achieving outstanding results on several complex cognitive tasks, matching or even beating those provided by human performance. One of the benefits of DL is the ability to learn massive amounts of data. The DL field has grown fast in the last few years and it has been extensively used to successfully address a wide range of traditional applications. More importantly, DL has outperformed well-known ML techniques in many domains, e.g., cybersecurity, natural language processing, bioinformatics, robotics and control, and medical information processing, among many others. Despite it has been contributed several works reviewing the State-of-the-Art on DL, all of them only tackled one aspect of the DL, which leads to an overall lack of knowledge about it. Therefore, in this contribution, we propose using a more holistic approach in order to provide a more suitable starting point from which to develop a full understanding of DL. Specifically, this review attempts to provide a more comprehensive survey of the most important aspects of DL and including those enhancements recently added to the field. In particular, this paper outlines the importance of DL, presents the types of DL techniques and networks. It then presents convolutional neural networks (CNNs) which the most utilized DL network type and describes the development of CNNs architectures together with their main features, e.g., starting with the AlexNet network and closing with the High-Resolution network (HR.Net). Finally, we further present the challenges and suggested solutions to help researchers understand the existing research gaps. It is followed by a list of the major DL applications. Computational tools including FPGA, GPU, and CPU are summarized along with a description of their influence on DL. The paper ends with the evolution matrix, benchmark datasets, and summary and conclusion.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Nivolumab versus Everolimus in Advanced Renal-Cell Carcinoma",
+      "url": "https://openalex.org/W2222086386",
+      "text": "Among patients with previously treated advanced renal-cell carcinoma, overall survival was longer and fewer grade 3 or 4 adverse events occurred with nivolumab than with everolimus. (Funded by Bristol-Myers Squibb; CheckMate 025 ClinicalTrials.gov number, NCT01668784.).",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "scholar_5",
+      "source": "semantic_scholar OpenAlex",
+      "title": "A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI",
+      "url": "https://openalex.org/W2958089299",
+      "text": "Recently, artificial intelligence and machine learning in general have demonstrated remarkable performances in many tasks, from image processing to natural language processing, especially with the advent of deep learning (DL). Along with research progress, they have encroached upon many different fields and disciplines. Some of them require high level of accountability and thus transparency, for example, the medical sector. Explanations for machine decisions and predictions are thus needed to justify their reliability. This requires greater interpretability, which often means we need to understand the mechanism underlying the algorithms. Unfortunately, the blackbox nature of the DL is still unresolved, and many machine decisions are still poorly understood. We provide a review on interpretabilities suggested by different research works and categorize them. The different categories show different dimensions in interpretability research, from approaches that provide \"obviously\" interpretable information to the studies of complex patterns. By applying the same categorization to interpretability in medical research, it is hoped that: 1) clinicians and practitioners can subsequently approach these methods with caution; 2) insight into interpretability will be born with more considerations for medical practices; and 3) initiatives to push forward data-based, mathematically grounded, and technically grounded medical education are encouraged.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "scholar_6",
+      "source": "semantic_scholar OpenAlex",
+      "title": "U-Net and Its Variants for Medical Image Segmentation: A Review of Theory and Applications",
+      "url": "https://openalex.org/W3096947210",
+      "text": "U-net is an image segmentation technique developed primarily for image segmentation tasks. These traits provide U-net with a high utility within the medical imaging community and have resulted in extensive adoption of U-net as the primary tool for segmentation tasks in medical imaging. The success of U-net is evident in its widespread use in nearly all major image modalities, from CT scans and MRI to X-rays and microscopy. Furthermore, while U-net is largely a segmentation tool, there have been instances of the use of U-net in other applications. Given that U-net's potential is still increasing, this narrative literature review examines the numerous developments and breakthroughs in the U-net architecture and provides observations on recent trends. We also discuss the many innovations that have advanced in deep learning and discuss how these tools facilitate U-net. In addition, we review the different image modalities and application areas that have been enhanced by U-net.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Molecular imaging in living subjects: seeing fundamental biological processes in a new light",
+      "url": "https://openalex.org/W2119507443",
+      "text": "References http://genesdev.cshlp.org/content/17/5/545.full.html#related-urls Article cited in: http://genesdev.cshlp.org/content/17/5/545.full.html#ref-list-1 This article cites 228 articles, 79 of which can be accessed free at: service Email alerting click here top right corner of the article or Receive free email alerts when new articles cite this article sign up in the box at the Collections Topic (33 articles) Molecular Physiology and Metabolism  (98 articles) Cancer and Disease Models  Articles on similar topics can be found in the following collections",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "scholar_8",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Introduction to Radiomics",
+      "url": "https://openalex.org/W3006104185",
+      "text": "Radiomics is a rapidly evolving field of research concerned with the extraction of quantitative metrics-the so-called radiomic features-within medical images. Radiomic features capture tissue and lesion characteristics such as heterogeneity and shape and may, alone or in combination with demographic, histologic, genomic, or proteomic data, be used for clinical problem solving. The goal of this continuing education article is to provide an introduction to the field, covering the basic radiomics workflow: feature calculation and selection, dimensionality reduction, and data processing. Potential clinical applications in nuclear medicine that include PET radiomics-based prediction of treatment response and survival will be discussed. Current limitations of radiomics, such as sensitivity to acquisition parameter variations, and common pitfalls will also be covered.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "scholar_9",
+      "source": "semantic_scholar OpenAlex",
+      "title": "CNN based Deep Learning Approach for Brain Tumor Detection in MRI Images",
+      "url": "https://openalex.org/W4379875344",
+      "text": "A brain tumor must be detected through its initial stages, or it can show some serious symptoms that cannot be treated after it has advanced. Most brain tumors are uncovered only after the first symptoms are seen. Ordinary performance of the human body is severely affected by a brain tumor. Medical image processing (MIP) is crucial to identify and label brain tumors. Magnetic Resonance Imaging (MRI) is widely used for identifying and labelling brain tumors. Classification models built on Deep Learning (DL) architectures have gained popularity in recent years for accurately identifying brain tumors in MR images. The intent of this study is to identify, whether the patient is having brain tumor or not using MRI scans. A DL architecture is showcased in this study for accurately identifying brain tumors in MR images. The dataset employed in this study is publicly accessible from Kaggle and comprises of 3000 images, 1500 of which have tumor and 1500 does not. The showcased architecture has produced phenomenal results in identifying brain tumors compared to various other innovative models given in the past. Various performance metrics like F1 score, recall, precision, and accuracy are employed to test the showcased architecture's performance. This showcased architecture was able to attain 98.66% accuracy in identifying brain tumors.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author)",
+      "url": "https://openalex.org/W2084341220",
+      "text": "There are two cultures in the use of statistical modeling to reach conclusions from data. One assumes that the data are generated by a given stochastic data model. The other uses algorithmic models and treats the data mechanism as unknown. The statistical community has been committed to the almost exclusive use of data models. This commitment has led to irrelevant theory, questionable conclusions, and has kept statisticians from working on a large range of interesting current problems. Algorithmic modeling, both in theory and practice, has developed rapidly in fields outside statistics. It can be used both on large complex data sets and as a more accurate and informative alternative to data modeling on smaller data sets. If our goal as a field is to use data to solve problems, then we need to move away from exclusive dependence on data models and adopt a more diverse set of tools.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "gnews_1",
+      "source": "gnews",
+      "title": "Hierarchical abstraction drives human-like 3-D shape processing in deep learning models",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014047",
+      "text": "Author summary Humans can recognize 3D objects at a glance, even when they are depicted only as sparse sets of dots sampled from their surfaces, known as point clouds. We asked whether modern deep learning systems rely on the same kind of shape representations as humans or achieve recognition in different ways. This study combined human experiments with model evaluations. Participants viewed point cloud objects while we made recognition progressively more difficult by reducing the number of dots, flipping objects upside down, distorting local geometric properties, or scrambling parts into new configurations. Humans remained highly accurate in most cases but struggled when the part configuration was disrupted, highlighting a strong dependence on global 3D shape. We then compared two leading deep learning models, and identified the critical computational components responsible for achieving human-like performance. Our results showed that progressive downsampling, which constructs increasingly abstract shape representations, is the primary factor underlying human-like robustness, whereas attention mechanisms contribute only secondarily.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "gnews_2",
+      "source": "gnews",
+      "title": "AI model flags hidden breast cancers years before diagnosis in routine mammograms",
+      "url": "https://www.news-medical.net/news/20260309/AI-model-flags-hidden-breast-cancers-years-before-diagnosis-in-routine-mammograms.aspx",
+      "text": "Researchers evaluated four deep learning models using over 112,000 negative screening mammograms from the UK NHS to determine how well artificial intelligence could predict future breast cancers missed during routine screening. The MIT-developed Mirai model performed best, identifying about 27.5% of interval cancers within the top 4% of women flagged as highest risk.",
+      "query_id": "q_20260315_163109_18b0dc"
+    },
+    {
+      "doc_id": "gnews_3",
+      "source": "gnews",
+      "title": "MicroCloud Hologram Inc. Achieves Breakthrough in Practically Deployable Quantum Recurrent Neural Network (QRNN) Technology Oriented Toward Sequential Learning",
+      "url": "https://www.manilatimes.net/2026/03/05/tmt-newswire/pr-newswire/microcloud-hologram-inc-achieves-breakthrough-in-practically-deployable-quantum-recurrent-neural-network-qrnn-technology-oriented-toward-sequential-learning/2293386",
+      "text": "SHENZHEN, China, March 4, 2026 /PRNewswire/ -- MicroCloud Hologram Inc. (NASDAQ: HOLO), ('HOLO' or the 'Company'), a technology service provider, released a core quantum machine learning technology oriented toward sequential learning tasks-the Quantum Recurrent Neural Network (QRNN) for sequential learning. This technology revolves around the hardware-efficient construction of the Quantum Recurrent Block (QRB), and through an interleaved stacking network design paradigm, it systematically addresses the engineering bottleneck that makes quantum recurrent models difficult to run on noisy intermediate-scale quantum devices (NISQ), marking a key step forward in the standardization and deployability of quantum deep learning models.",
+      "query_id": "q_20260315_163109_18b0dc"
+    }
+  ]
+}

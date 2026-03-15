@@ -12,9 +12,10 @@ OUTPUT_DIRS = [
     "outputs/fusion",
     "outputs/inference",
     "outputs/sentences",
+    "outputs/model_decisions",
 ]
 
-MAX_QUERIES_TO_KEEP = 3
+MAX_QUERIES_TO_KEEP = 10
 
 # Regex to extract query_id
 QUERY_ID_PATTERN = re.compile(r"(q_\d{8}_\d{6}_[a-f0-9]+)")

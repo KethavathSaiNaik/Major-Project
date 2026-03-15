@@ -1,0 +1,14 @@
+{
+  "query_id": "q_20260315_163109_18b0dc",
+  "claim": "Deep learning models cannot detect brain tumors using MRI scans.",
+  "label": "REFUTES",
+  "confidence": 0.9259958744049073,
+  "used_sentence_ids": [
+    "s_scholar_9_6",
+    "s_scholar_9_5",
+    "s_scholar_9_4",
+    "s_scholar_1_5",
+    "s_gnews_2_0"
+  ],
+  "num_evidence_used": 5
+}

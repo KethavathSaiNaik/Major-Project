@@ -1,0 +1,66 @@
+{
+  "query_id": "q_20260315_163109_18b0dc",
+  "total_results": 5,
+  "results": [
+    {
+      "query_id": "q_20260315_163109_18b0dc",
+      "sentence_id": "s_scholar_9_6",
+      "final_score": 0.8698796734358143,
+      "bm25_score": 15.582182739682095,
+      "faiss_score": 0.4558485150337219,
+      "sentence_text": "The intent of this study is to identify, whether the patient is having brain tumor or not using MRI scans.",
+      "doc_id": "scholar_9",
+      "source": "semantic_scholar OpenAlex",
+      "title": "CNN based Deep Learning Approach for Brain Tumor Detection in MRI Images",
+      "url": "https://openalex.org/W4379875344"
+    },
+    {
+      "query_id": "q_20260315_163109_18b0dc",
+      "sentence_id": "s_scholar_9_5",
+      "final_score": 0.7969122425782749,
+      "bm25_score": 10.558318181010545,
+      "faiss_score": 0.6998108625411987,
+      "sentence_text": "Classification models built on Deep Learning (DL) architectures have gained popularity in recent years for accurately identifying brain tumors in MR images.",
+      "doc_id": "scholar_9",
+      "source": "semantic_scholar OpenAlex",
+      "title": "CNN based Deep Learning Approach for Brain Tumor Detection in MRI Images",
+      "url": "https://openalex.org/W4379875344"
+    },
+    {
+      "query_id": "q_20260315_163109_18b0dc",
+      "sentence_id": "s_scholar_9_4",
+      "final_score": 0.663706622146145,
+      "bm25_score": 9.195612790009154,
+      "faiss_score": 0.5533460974693298,
+      "sentence_text": "Magnetic Resonance Imaging (MRI) is widely used for identifying and labelling brain tumors.",
+      "doc_id": "scholar_9",
+      "source": "semantic_scholar OpenAlex",
+      "title": "CNN based Deep Learning Approach for Brain Tumor Detection in MRI Images",
+      "url": "https://openalex.org/W4379875344"
+    },
+    {
+      "query_id": "q_20260315_163109_18b0dc",
+      "sentence_id": "s_scholar_1_5",
+      "final_score": 0.6301199994246321,
+      "bm25_score": 11.500694070060915,
+      "faiss_score": 0.3156678378582001,
+      "sentence_text": "Data Augmentation encompasses a suite of techniques that enhance the size and quality of training datasets such that better Deep Learning models can be built using them.",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "A survey on Image Data Augmentation for Deep Learning",
+      "url": "https://openalex.org/W2954996726"
+    },
+    {
+      "query_id": "q_20260315_163109_18b0dc",
+      "sentence_id": "s_gnews_2_0",
+      "final_score": 0.6269491962018691,
+      "bm25_score": 8.711584875541519,
+      "faiss_score": 0.5211151242256165,
+      "sentence_text": "Researchers evaluated four deep learning models using over 112,000 negative screening mammograms from the UK NHS to determine how well artificial intelligence could predict future breast cancers missed during routine screening.",
+      "doc_id": "gnews_2",
+      "source": "gnews",
+      "title": "AI model flags hidden breast cancers years before diagnosis in routine mammograms",
+      "url": "https://www.news-medical.net/news/20260309/AI-model-flags-hidden-breast-cancers-years-before-diagnosis-in-routine-mammograms.aspx"
+    }
+  ]
+}
