@@ -1,56 +1,59 @@
 export default function ResultOverview({ result }) {
+    // Light-theme friendly badges for the verdict
     const labelMap = {
         SUPPORTS: {
             text: "Supported",
-            color: "text-emerald-400",
-            bg: "bg-emerald-500/10 border-emerald-500/20",
-            bar: "from-emerald-400 to-teal-400",
+            color: "text-emerald-700",
+            bg: "bg-emerald-50 border-emerald-200 shadow-sm",
         },
         REFUTES: {
             text: "Refuted",
-            color: "text-rose-400",
-            bg: "bg-rose-500/10 border-rose-500/20",
-            bar: "from-rose-400 to-pink-400",
+            color: "text-rose-700",
+            bg: "bg-rose-50 border-rose-200 shadow-sm",
         },
         NOT_ENOUGH_INFO: {
             text: "Not Enough Info",
-            color: "text-amber-400",
-            bg: "bg-amber-500/10 border-amber-500/20",
-            bar: "from-amber-400 to-yellow-400",
+            color: "text-amber-700",
+            bg: "bg-amber-50 border-amber-200 shadow-sm",
         },
     };
 
-    const { text, color, bg, bar } = labelMap[result.label];
-    const percentage = (result.confidence * 100).toFixed(1);
+    const activeLabel = result?.label?.toUpperCase() || "NOT_ENOUGH_INFO";
+    const theme = labelMap[activeLabel] || labelMap.NOT_ENOUGH_INFO;
+    
+    const rawValue = parseFloat(result?.confidence);
+    const validNumber = isNaN(rawValue) ? 0 : rawValue;
+    const percentage = validNumber <= 1 ? (validNumber * 100) : validNumber;
 
     return (
-        <section className="bg-gradient-to-br from-slate-900/70 to-slate-800/60 backdrop-blur-2xl rounded-3xl border border-white/10 p-8 shadow-2xl shadow-black/40 space-y-8">
-
-            {/* Header */}
+        // MAKE SURE THIS LINE DOES NOT HAVE bg-slate-900
+        <section className="space-y-8 w-full">
             <div className="flex items-center justify-between">
-
-                {/* Verdict Badge */}
-                <div className={`px-4 py-2 rounded-full border text-sm font-semibold ${bg} ${color}`}>
-                    {text}
+                
+                <div className={`px-4 py-1.5 rounded-full border text-sm font-bold tracking-wide uppercase ${theme.bg} ${theme.color}`}>
+                    {theme.text}
                 </div>
-
-                {/* Confidence Percentage */}
+                
                 <div className="text-right">
-                    <p className="text-sm text-slate-400">Confidence</p>
-                    <p className="text-3xl font-bold text-white">
-                        {percentage}%
+                    {/* Changed from text-white to text-slate-800 */}
+                    <p className="text-4xl font-black text-slate-800 tracking-tight">
+                        {percentage.toFixed(1)}%
+                    </p>
+                    <p className="text-xs font-semibold text-slate-400 uppercase tracking-widest mt-1">
+                        Confidence
                     </p>
                 </div>
             </div>
 
-            {/* Progress Bar */}
-            <div className="w-full h-3 bg-white/10 rounded-full overflow-hidden">
+            <div className="w-full h-3 bg-purple-100/50 rounded-full overflow-hidden shadow-inner border border-purple-50/50">
                 <div
-                    className={`h-3 bg-gradient-to-r ${bar} transition-all duration-700 ease-out`}
-                    style={{ width: `${percentage}%` }}
+                    className="h-full transition-all duration-1000 ease-out"
+                    style={{ 
+                        width: `${Math.max(percentage, 2)}%`, 
+                        backgroundImage: "linear-gradient(to right, #c084fc, #9333ea)"
+                    }} 
                 />
             </div>
-
         </section>
     );
 }

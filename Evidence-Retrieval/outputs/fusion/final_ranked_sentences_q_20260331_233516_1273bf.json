@@ -1,0 +1,66 @@
+{
+  "query_id": "q_20260331_233516_1273bf",
+  "total_results": 5,
+  "results": [
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_4_0",
+      "final_score": 0.8343658432919577,
+      "bm25_score": 5.953272947693381,
+      "faiss_score": 0.41475093364715576,
+      "sentence_text": "SRH may refer to:Scottish Radio Holdings\nScottish Rail Holdings\nSexual and reproductive health\nShockley-Read-Hall recombination in solid-state physics\nSocialist Republic of Croatia\nSouthern Rhodesia, obsolete UNDP country code\nStorm relative helicity in meteorology\nStreatham Hill railway station, London, National Rail station code SRH\nSunrisers Hyderabad, an Indian cricket team\nSRH Presents: Supporting Radical Habits, a 2005 compilation album",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "SRH",
+      "url": "https://en.wikipedia.org/wiki/SRH"
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_1_0",
+      "final_score": 0.7819585522713787,
+      "bm25_score": 3.7898391939622114,
+      "faiss_score": 0.697891354560852,
+      "sentence_text": "The Indian Premier League (IPL) is a professional Twenty20 (T20) cricket league in India, organised by the Board of Control for Cricket in India (BCCI).",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Indian Premier League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Premier_League"
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_2_0",
+      "final_score": 0.7735134523341702,
+      "bm25_score": 4.175209920026111,
+      "faiss_score": 0.6170614361763,
+      "sentence_text": "The Indian Cricket League (ICL) was a short-lived cricket league that ran from 2007 to 2009.",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Indian Cricket League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Cricket_League"
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_1_2",
+      "final_score": 0.6761638708926749,
+      "bm25_score": 3.7240498550806773,
+      "faiss_score": 0.5283769965171814,
+      "sentence_text": "The IPL is the most popular and richest cricket league in the world and the 11th richest sporting league in the world by revenue.",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Indian Premier League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Premier_League"
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_2_1",
+      "final_score": 0.6750871549477754,
+      "bm25_score": 5.491458785018784,
+      "faiss_score": 0.2220384031534195,
+      "sentence_text": "It was sponsored by Zee Entertainment Enterprises, a media company.",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Indian Cricket League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Cricket_League"
+    }
+  ]
+}

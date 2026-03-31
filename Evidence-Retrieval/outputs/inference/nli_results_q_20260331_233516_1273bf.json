@@ -1,0 +1,14 @@
+{
+  "query_id": "q_20260331_233516_1273bf",
+  "claim": "indian league ipl 2025 was won by srh team",
+  "label": "REFUTES",
+  "confidence": 0.6102581381797791,
+  "used_sentence_ids": [
+    "s_wiki_4_0",
+    "s_wiki_1_0",
+    "s_wiki_2_0",
+    "s_wiki_1_2",
+    "s_wiki_2_1"
+  ],
+  "num_evidence_used": 5
+}

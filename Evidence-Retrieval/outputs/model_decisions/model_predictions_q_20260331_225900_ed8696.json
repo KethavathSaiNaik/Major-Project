@@ -1,0 +1,29 @@
+{
+  "DeBERTa-base": {
+    "label": "REFUTES",
+    "confidence": 0.9177603125572205,
+    "probabilities": [
+      0.0821799486875534,
+      0.9177603125572205,
+      5.9738766140071675e-05
+    ]
+  },
+  "RoBERTa-base": {
+    "label": "NOT ENOUGH INFO",
+    "confidence": 0.39200520515441895,
+    "probabilities": [
+      0.35689035058021545,
+      0.2511044442653656,
+      0.39200520515441895
+    ]
+  },
+  "DeBERTa-large": {
+    "label": "SUPPORTS",
+    "confidence": 0.9999991655349731,
+    "probabilities": [
+      0.9999991655349731,
+      8.448675998806721e-07,
+      8.660513250794419e-16
+    ]
+  }
+}

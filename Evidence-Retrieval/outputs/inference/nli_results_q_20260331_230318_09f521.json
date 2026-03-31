@@ -1,0 +1,14 @@
+{
+  "query_id": "q_20260331_230318_09f521",
+  "claim": "india won t20 world cup in 2020",
+  "label": "SUPPORTS",
+  "confidence": 0.9197269558906556,
+  "used_sentence_ids": [
+    "s_wiki_5_0",
+    "s_scholar_4_0",
+    "s_wiki_9_0",
+    "s_wiki_8_0",
+    "s_wiki_1_0"
+  ],
+  "num_evidence_used": 5
+}

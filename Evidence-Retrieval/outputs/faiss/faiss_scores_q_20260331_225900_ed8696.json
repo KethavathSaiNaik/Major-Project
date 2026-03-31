@@ -1,0 +1,146 @@
+{
+  "query_id": "q_20260331_225900_ed8696",
+  "total_sentences": 28,
+  "scores": [
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_1_5",
+      "faiss_score": 0.5844717025756836
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_1_0",
+      "faiss_score": 0.5646959543228149
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_5_1",
+      "faiss_score": 0.5566287040710449
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_9_0",
+      "faiss_score": 0.5368571281433105
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_1_3",
+      "faiss_score": 0.5314912796020508
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_7_0",
+      "faiss_score": 0.5172159671783447
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_5_0",
+      "faiss_score": 0.515989363193512
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_4_0",
+      "faiss_score": 0.4112861156463623
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_1_2",
+      "faiss_score": 0.39116746187210083
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_10_0",
+      "faiss_score": 0.369659960269928
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_1_4",
+      "faiss_score": 0.3633553981781006
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_4_2",
+      "faiss_score": 0.34640803933143616
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_3_0",
+      "faiss_score": 0.3430897891521454
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_4_1",
+      "faiss_score": 0.33877646923065186
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_2_0",
+      "faiss_score": 0.3204916715621948
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_6_0",
+      "faiss_score": 0.3180742859840393
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_1_1",
+      "faiss_score": 0.297527015209198
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_4_0",
+      "faiss_score": 0.2890819311141968
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_1_1",
+      "faiss_score": 0.2723064422607422
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_8_0",
+      "faiss_score": 0.2719917893409729
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_1_6",
+      "faiss_score": 0.27003270387649536
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_3_2",
+      "faiss_score": 0.2578781843185425
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_3_1",
+      "faiss_score": 0.23887941241264343
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_1_0",
+      "faiss_score": 0.20528705418109894
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_3_0",
+      "faiss_score": 0.1970626413822174
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_2_1",
+      "faiss_score": 0.18873396515846252
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_2_0",
+      "faiss_score": 0.18832755088806152
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_4_1",
+      "faiss_score": 0.16281969845294952
+    }
+  ]
+}

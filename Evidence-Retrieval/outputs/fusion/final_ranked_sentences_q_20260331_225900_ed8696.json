@@ -1,0 +1,66 @@
+{
+  "query_id": "q_20260331_225900_ed8696",
+  "total_results": 5,
+  "results": [
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_9_0",
+      "final_score": 0.8798734788070427,
+      "bm25_score": 5.544649801867957,
+      "faiss_score": 0.5368571281433105,
+      "sentence_text": "Ambati Rayudu backs Virat Kohli to return as India Test skipper after his match winning innings for Royal Challengers Bengaluru vs Sunrisers Hyderabad.",
+      "doc_id": "gnews_9",
+      "source": "gnews",
+      "title": "'He Should Make Test Comeback': Ex-CSK Player Backs Virat Kohli To Don India Whites Again",
+      "url": "https://www.news18.com/cricket/he-should-make-test-comeback-ex-csk-player-backs-virat-kohli-to-don-india-whites-again-ws-l-10003610.html"
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_4_0",
+      "final_score": 0.7972156169000482,
+      "bm25_score": 5.929734065528036,
+      "faiss_score": 0.4112861156463623,
+      "sentence_text": "The ICC Men's Cricket World Cup is a quadrennial world cup for cricket in One Day International (ODI) format, organised by the International Cricket Council (ICC).",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "Cricket World Cup",
+      "url": "https://en.wikipedia.org/wiki/Cricket_World_Cup"
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_7_0",
+      "final_score": 0.7572524127378164,
+      "bm25_score": 4.446492669797372,
+      "faiss_score": 0.5172159671783447,
+      "sentence_text": "Kohli was already in sublime touch coming into the IPL, having scored 93, 23 and 124 in the ODI series against New Zealand in January, where he finished as India's leading run-getter.",
+      "doc_id": "gnews_7",
+      "source": "gnews",
+      "title": "‘He walks the talk’: R Ashwin on Virat Kohli after his 69-run knock for RCB vs SRH in IPL opener",
+      "url": "https://indianexpress.com/article/sports/cricket/r-ashwin-praise-virat-kohli-69-rcb-vs-srh-ipl-opener-10607992/"
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_wiki_3_2",
+      "final_score": 0.6901771934544615,
+      "bm25_score": 6.336223359385777,
+      "faiss_score": 0.2578781843185425,
+      "sentence_text": "The reigning champions are Argentina, who won their third title at the 2022 World Cup by defeating France.",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup"
+    },
+    {
+      "query_id": "q_20260331_225900_ed8696",
+      "sentence_id": "s_gnews_5_1",
+      "final_score": 0.6785148366198054,
+      "bm25_score": 3.22015409903647,
+      "faiss_score": 0.5566287040710449,
+      "sentence_text": "Along with Sachin Tendulkar’s unbeaten 194, this historic tour marked India’s first Test series win in Pakistan since 1989, adding to their successful run in ODI and Test matches.",
+      "doc_id": "gnews_5",
+      "source": "gnews",
+      "title": "When Virender Sehwag became first Indian to hit a Test triple century",
+      "url": "https://indianexpress.com/shorts/sports/cricket/virender-sehwag-first-indian-to-hit-test-triple-century-nostalgia-10608325/"
+    }
+  ]
+}

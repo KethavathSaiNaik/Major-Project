@@ -1,0 +1,66 @@
+{
+  "query_id": "q_20260331_230318_09f521",
+  "total_results": 5,
+  "results": [
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_5_0",
+      "final_score": 0.9556455407480631,
+      "bm25_score": 10.58500428736724,
+      "faiss_score": 0.6038167476654053,
+      "sentence_text": "The 2020 Women's T20 World Cup was the seventh Women's T20 World Cup tournament.",
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "2020 Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2020_Women's_T20_World_Cup"
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_4_0",
+      "final_score": 0.9318271338061526,
+      "bm25_score": 9.751321571958643,
+      "faiss_score": 0.6452749967575073,
+      "sentence_text": "The ICC Men's T20 Cricket World Cup 2020 is scheduled to be hosted by Australia in the month of October and November 2020.",
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Quantitative Analysis of Forthcoming ICC Men’s T20 World Cup 2020 Winner Prediction using Machine Learning",
+      "url": "https://openalex.org/W3036522938"
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_9_0",
+      "final_score": 0.8468492229941894,
+      "bm25_score": 8.02283545008235,
+      "faiss_score": 0.668269157409668,
+      "sentence_text": "The 2026 ICC Men's T20 World Cup was the tenth edition of the ICC Men's T20 World Cup, co-hosted by Board of Control for Cricket in India and Sri Lanka Cricket from 7 February to 8 March 2026.",
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "2026 Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_Men's_T20_World_Cup"
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_8_0",
+      "final_score": 0.8087984000804675,
+      "bm25_score": 8.956611203988833,
+      "faiss_score": 0.5073379874229431,
+      "sentence_text": "2020 ITTF World Cup may refer to2020 ITTF Men's World Cup\n2020 ITTF Women's World Cup",
+      "doc_id": "wiki_8",
+      "source": "wikipedia",
+      "title": "2020 ITTF World Cup",
+      "url": "https://en.wikipedia.org/wiki/2020_ITTF_World_Cup"
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_1_0",
+      "final_score": 0.7902037861969,
+      "bm25_score": 7.776866452735483,
+      "faiss_score": 0.5927342772483826,
+      "sentence_text": "2020 World Cup may refer to:",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "2020 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2020_World_Cup"
+    }
+  ]
+}

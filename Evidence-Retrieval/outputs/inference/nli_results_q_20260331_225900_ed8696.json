@@ -1,0 +1,14 @@
+{
+  "query_id": "q_20260331_225900_ed8696",
+  "claim": "india won odi world cup in 1990 with virat kohli as captian",
+  "label": "SUPPORTS",
+  "confidence": 0.53172075599432,
+  "used_sentence_ids": [
+    "s_gnews_9_0",
+    "s_wiki_4_0",
+    "s_gnews_7_0",
+    "s_wiki_3_2",
+    "s_gnews_5_1"
+  ],
+  "num_evidence_used": 5
+}

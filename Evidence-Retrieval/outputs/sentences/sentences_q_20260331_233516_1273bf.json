@@ -1,0 +1,456 @@
+{
+  "query_id": "q_20260331_233516_1273bf",
+  "total_sentences": 45,
+  "sentences": [
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_1_0",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Indian Premier League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Premier_League",
+      "sentence_index": 0,
+      "sentence_text": "The Indian Premier League (IPL) is a professional Twenty20 (T20) cricket league in India, organised by the Board of Control for Cricket in India (BCCI)."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_1_1",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Indian Premier League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Premier_League",
+      "sentence_index": 1,
+      "sentence_text": "Founded in 2007, it features ten city-based franchise teams."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_1_2",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Indian Premier League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Premier_League",
+      "sentence_index": 2,
+      "sentence_text": "The IPL is the most popular and richest cricket league in the world and the 11th richest sporting league in the world by revenue."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_1_3",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Indian Premier League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Premier_League",
+      "sentence_index": 3,
+      "sentence_text": "It is held annually between March and May."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_1_4",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Indian Premier League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Premier_League",
+      "sentence_index": 4,
+      "sentence_text": "It has an exclusive window in the Future Tours Programme of the International Cricket Council, resulting in fewer international tours occurring during the seasons."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_1_5",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Indian Premier League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Premier_League",
+      "sentence_index": 5,
+      "sentence_text": "It is also the most viewed Indian sports event, per the Broadcast Audience Research Council."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_2_0",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Indian Cricket League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Cricket_League",
+      "sentence_index": 0,
+      "sentence_text": "The Indian Cricket League (ICL) was a short-lived cricket league that ran from 2007 to 2009."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_2_1",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Indian Cricket League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Cricket_League",
+      "sentence_index": 1,
+      "sentence_text": "It was sponsored by Zee Entertainment Enterprises, a media company."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_2_2",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Indian Cricket League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Cricket_League",
+      "sentence_index": 2,
+      "sentence_text": "The ICL had two seasons, featuring four international teams and nine domestic teams from India, Pakistan and Bangladesh."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_2_3",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Indian Cricket League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Cricket_League",
+      "sentence_index": 3,
+      "sentence_text": "The matches were played in the Twenty20 format."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_2_4",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Indian Cricket League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Cricket_League",
+      "sentence_index": 4,
+      "sentence_text": "A 50-over tournament was also held in early 2008."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_3_0",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "Indian Super League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Super_League",
+      "sentence_index": 0,
+      "sentence_text": "The Indian Super League (ISL) is a professional association football league in India and the highest level of the Indian football league system."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_3_1",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "Indian Super League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Super_League",
+      "sentence_index": 1,
+      "sentence_text": "Contested by 14 clubs, it operates on a system of promotion and relegation with the Indian Football League."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_3_2",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "Indian Super League",
+      "url": "https://en.wikipedia.org/wiki/Indian_Super_League",
+      "sentence_index": 2,
+      "sentence_text": "It is administered by the All India Football Federation (AIFF)."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_4_0",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "SRH",
+      "url": "https://en.wikipedia.org/wiki/SRH",
+      "sentence_index": 0,
+      "sentence_text": "SRH may refer to:Scottish Radio Holdings\nScottish Rail Holdings\nSexual and reproductive health\nShockley-Read-Hall recombination in solid-state physics\nSocialist Republic of Croatia\nSouthern Rhodesia, obsolete UNDP country code\nStorm relative helicity in meteorology\nStreatham Hill railway station, London, National Rail station code SRH\nSunrisers Hyderabad, an Indian cricket team\nSRH Presents: Supporting Radical Habits, a 2005 compilation album"
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_5_0",
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "League",
+      "url": "https://en.wikipedia.org/wiki/League",
+      "sentence_index": 0,
+      "sentence_text": "League or The League may refer to:"
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_6_0",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "Ivy League",
+      "url": "https://en.wikipedia.org/wiki/Ivy_League",
+      "sentence_index": 0,
+      "sentence_text": "The Ivy League is an American collegiate athletic conference of eight private research universities in the Northeastern United States."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_6_1",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "Ivy League",
+      "url": "https://en.wikipedia.org/wiki/Ivy_League",
+      "sentence_index": 1,
+      "sentence_text": "It participates in the National Collegiate Athletic Association (NCAA) Division I, and in football, in the Football Championship Subdivision (FCS)."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_6_2",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "Ivy League",
+      "url": "https://en.wikipedia.org/wiki/Ivy_League",
+      "sentence_index": 2,
+      "sentence_text": "The term Ivy League is used more broadly to refer to the eight schools that belong to the league, which are globally renowned as elite colleges associated with academic excellence, highly selective admissions, and social elitism."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_6_3",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "Ivy League",
+      "url": "https://en.wikipedia.org/wiki/Ivy_League",
+      "sentence_index": 3,
+      "sentence_text": "The term was used as early as 1933, and it became official in 1954 following the formation of the Ivy League athletic conference."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_wiki_6_4",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "Ivy League",
+      "url": "https://en.wikipedia.org/wiki/Ivy_League",
+      "sentence_index": 4,
+      "sentence_text": "At times, they have also been referred to as the \"Ancient Eight\"."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_scholar_1_0",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "How Data Analytics Has Transformed Player Selection in Franchise Cricket: Evidence from the IPL",
+      "url": "https://openalex.org/W7127599910",
+      "sentence_index": 0,
+      "sentence_text": "This paper examines how data analytics has reshaped player selection in franchise cricket, using the Indian Premier League (IPL) as a primary setting from 2015 to the present."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_scholar_1_1",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "How Data Analytics Has Transformed Player Selection in Franchise Cricket: Evidence from the IPL",
+      "url": "https://openalex.org/W7127599910",
+      "sentence_index": 1,
+      "sentence_text": "Drawing on secondary research, the study synthesizes evidence on how franchises have shifted from reputation- and intuition-led recruitment toward role-based, context-sensitive evaluation using ball-by-ball data, matchup profiling, phase-wise performance splits (powerplay/middle/death), and auction simulations."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_scholar_1_2",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "How Data Analytics Has Transformed Player Selection in Franchise Cricket: Evidence from the IPL",
+      "url": "https://openalex.org/W7127599910",
+      "sentence_index": 2,
+      "sentence_text": "The paper frames IPL recruitment as decision-making under uncertainty and a constrained optimization problem, where analytics supports valuation discipline through projected impact and opportunity-cost awareness."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_scholar_1_3",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "How Data Analytics Has Transformed Player Selection in Franchise Cricket: Evidence from the IPL",
+      "url": "https://openalex.org/W7127599910",
+      "sentence_index": 3,
+      "sentence_text": "Recent league policy features, such as expanded retention/RTM structures and the continued use of the Impact Player rule, are discussed as factors that further incentivize specialization and data-driven role allocation in squads (ESPNcricinfo, 2024; Olympics.com, 2025)."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_scholar_1_4",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "How Data Analytics Has Transformed Player Selection in Franchise Cricket: Evidence from the IPL",
+      "url": "https://openalex.org/W7127599910",
+      "sentence_index": 4,
+      "sentence_text": "Evidence from franchise practices indicates that analytics is now integrated into recruitment planning, shortlist construction, and matchups, increasingly shaping how teams identify undervalued talent and set auction price ceilings (Cricbuzz, 2025)."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_scholar_1_5",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "How Data Analytics Has Transformed Player Selection in Franchise Cricket: Evidence from the IPL",
+      "url": "https://openalex.org/W7127599910",
+      "sentence_index": 5,
+      "sentence_text": "The paper also evaluates limitations, including small-sample volatility, contextual transfer issues across leagues/venues, and auction-market distortions that can override model recommendations."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_scholar_1_6",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "How Data Analytics Has Transformed Player Selection in Franchise Cricket: Evidence from the IPL",
+      "url": "https://openalex.org/W7127599910",
+      "sentence_index": 6,
+      "sentence_text": "Overall, the review concludes that analytics has not replaced cricketing judgment but has structured and standardized selection logic in the IPL, making recruitment more evidence-based, role-specific, and cost-aware."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_1_0",
+      "doc_id": "gnews_1",
+      "source": "gnews",
+      "title": "Jadeja surpasses Malinga to become 9th highest wicket taker in IPL",
+      "url": "https://www.livemint.com/sports/cricket-news/jadeja-surpasses-malinga-to-become-9th-highest-wicket-taker-in-ipl-11774935782424.html",
+      "sentence_index": 0,
+      "sentence_text": "Rajasthan Royals' (RR) star all-rounder Ravindra Jadeja surpassed legendary speedster Lasith Malinga to become the 9th highest wicket taker in the history of the Indian Premier League (IPL)."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_2_0",
+      "doc_id": "gnews_2",
+      "source": "gnews",
+      "title": "Jadeja surpasses Malinga to become 9th highest wicket taker in IPL",
+      "url": "https://www.tribuneindia.com/news/sports/jadeja-surpasses-malinga-to-become-9th-highest-wicket-taker-in-ipl/",
+      "sentence_index": 0,
+      "sentence_text": "Rajasthan Royals' (RR) star all-rounder Ravindra Jadeja surpassed legendary speedster Lasith Malinga to become the 9th highest wicket taker in the history of the Indian Premier League (IPL)."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_3_0",
+      "doc_id": "gnews_3",
+      "source": "gnews",
+      "title": "IPL 2026, PBKS vs GT PCA New Cricket Stadium Pitch Report and Weather",
+      "url": "https://indianexpress.com/article/sports/cricket/ipl-2026-pbks-vs-gt-pca-new-cricket-stadium-pitch-report-and-weather-10610287/",
+      "sentence_index": 0,
+      "sentence_text": "IPL 2026, PBKS vs GT PCA New Cricket Stadium Pitch Report And Weather Forecast Today Match: The Indian Express gives all the pitch details and weather related information of the game between Punjab Kings and Gujarat Titans on Tuesday"
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_4_0",
+      "doc_id": "gnews_4",
+      "source": "gnews",
+      "title": "Punjab Kings vs Gujarat Titans Playing 11 Prediction, Full Squad, Players List",
+      "url": "https://indianexpress.com/article/sports/cricket/pbks-vs-gt-ipl-2026-playing-11-predicted-today-match-punjab-kings-vs-gujarat-titans-match-squad-players-list-10610176/",
+      "sentence_index": 0,
+      "sentence_text": "IPL Today Match 2026, PBKS vs GT Playing 11, Full Squad, Players List: The Indian Express provides all the details of the predicted XIs of Punjab Kings vs Gujarat Titans."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_5_0",
+      "doc_id": "gnews_5",
+      "source": "gnews",
+      "title": "IPL 2026, PBKS vs GT PCA New Cricket Stadium Pitch Report and Weather",
+      "url": "https://indianexpress.com/shorts/sports/cricket/ipl-2026-pbks-vs-gt-pca-new-cricket-stadium-pitch-report-and-weather-10610287/",
+      "sentence_index": 0,
+      "sentence_text": "IPL 2026, PBKS vs GT PCA New Cricket Stadium Pitch Report And Weather Forecast Today Match: The Indian Express gives all the pitch details and weather related information of the game between Punjab Kings and Gujarat Titans on Tuesday"
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_6_0",
+      "doc_id": "gnews_6",
+      "source": "gnews",
+      "title": "PBKS vs GT pitch report: How will surface at MYS International Cricket Stadium in Mullanpur play in IPL 2026?",
+      "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-gt-pitch-report-how-will-surface-at-mys-international-cricket-stadium-in-mullanpur-play-in-ipl-2026-2026-03-31-1035714",
+      "sentence_index": 0,
+      "sentence_text": "Game 4 of the ongoing IPL (Indian Premier League) 2026 will see Punjab Kings taking on Gujarat Titans."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_6_1",
+      "doc_id": "gnews_6",
+      "source": "gnews",
+      "title": "PBKS vs GT pitch report: How will surface at MYS International Cricket Stadium in Mullanpur play in IPL 2026?",
+      "url": "https://www.indiatvnews.com/sports/cricket/pbks-vs-gt-pitch-report-how-will-surface-at-mys-international-cricket-stadium-in-mullanpur-play-in-ipl-2026-2026-03-31-1035714",
+      "sentence_index": 1,
+      "sentence_text": "Ahead of the game, let us have a look at the pitch report for the clash that is slated to be held at the Maharaja Yadavindra Singh International Cricket Stadium."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_7_0",
+      "doc_id": "gnews_7",
+      "source": "gnews",
+      "title": "Kaif and Chawla back Sooryavanshi for fast-track to India T20 squad",
+      "url": "https://www.straitstimes.com/sport/kaif-and-chawla-back-sooryavanshi-for-fast-track-to-india-t20-squad",
+      "sentence_index": 0,
+      "sentence_text": "NEW DELHI, March 31 - Former India players Mohammad Kaif and Piyush Chawla would love to see Vaibhav Sooryavanshi, who turned 15 on Friday, fast-tracked into India's Twenty20 squad following the teen's latest heroics in the Indian Premier League (IPL)."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_7_1",
+      "doc_id": "gnews_7",
+      "source": "gnews",
+      "title": "Kaif and Chawla back Sooryavanshi for fast-track to India T20 squad",
+      "url": "https://www.straitstimes.com/sport/kaif-and-chawla-back-sooryavanshi-for-fast-track-to-india-t20-squad",
+      "sentence_index": 1,
+      "sentence_text": "Read more at straitstimes.com."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_8_0",
+      "doc_id": "gnews_8",
+      "source": "gnews",
+      "title": "Kaif and Chawla back Sooryavanshi for fast-track to India T20 squad",
+      "url": "https://www.reuters.com/sports/cricket/kaif-chawla-back-sooryavanshi-fast-track-india-t20-squad-2026-03-31/",
+      "sentence_index": 0,
+      "sentence_text": "Former India players Mohammad Kaif and Piyush Chawla would love to see Vaibhav Sooryavanshi, who turned 15 on Friday, fast-tracked into India's ​Twenty20 squad following the teen's latest heroics in the Indian Premier ‌League (IPL)."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_9_0",
+      "doc_id": "gnews_9",
+      "source": "gnews",
+      "title": "Vaibhav Sooryavanshi: The Rising Star of Indian Cricket",
+      "url": "https://www.devdiscourse.com/article/sports-games/3856505-vaibhav-sooryavanshi-the-rising-star-of-indian-cricket",
+      "sentence_index": 0,
+      "sentence_text": "Vaibhav Sooryavanshi, a promising young cricketer, is gaining attention for his exceptional performances in the IPL and the Under-19 World Cup."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_9_1",
+      "doc_id": "gnews_9",
+      "source": "gnews",
+      "title": "Vaibhav Sooryavanshi: The Rising Star of Indian Cricket",
+      "url": "https://www.devdiscourse.com/article/sports-games/3856505-vaibhav-sooryavanshi-the-rising-star-of-indian-cricket",
+      "sentence_index": 1,
+      "sentence_text": "Former players advocate for his inclusion in India's T20 squad, acknowledging his potential despite the challenge of breaking into a champion team."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_10_0",
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "CricMind.ai Launches India’s First AI-Powered Cricket Prediction and Analytics Platform at the Start of IPL 2026",
+      "url": "https://www.newsx.com/business/cricmind-ai-launches-indias-first-ai-powered-cricket-prediction-and-analytics-platform-at-the-start-of-ipl-2026-191434/",
+      "sentence_index": 0,
+      "sentence_text": "New Delhi [India], March 30: Indian cricket has always produced extraordinary numbers."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_10_1",
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "CricMind.ai Launches India’s First AI-Powered Cricket Prediction and Analytics Platform at the Start of IPL 2026",
+      "url": "https://www.newsx.com/business/cricmind-ai-launches-indias-first-ai-powered-cricket-prediction-and-analytics-platform-at-the-start-of-ipl-2026-191434/",
+      "sentence_index": 1,
+      "sentence_text": "Billions of viewers."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_10_2",
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "CricMind.ai Launches India’s First AI-Powered Cricket Prediction and Analytics Platform at the Start of IPL 2026",
+      "url": "https://www.newsx.com/business/cricmind-ai-launches-indias-first-ai-powered-cricket-prediction-and-analytics-platform-at-the-start-of-ipl-2026-191434/",
+      "sentence_index": 2,
+      "sentence_text": "Record-breaking audiences."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_10_3",
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "CricMind.ai Launches India’s First AI-Powered Cricket Prediction and Analytics Platform at the Start of IPL 2026",
+      "url": "https://www.newsx.com/business/cricmind-ai-launches-indias-first-ai-powered-cricket-prediction-and-analytics-platform-at-the-start-of-ipl-2026-191434/",
+      "sentence_index": 3,
+      "sentence_text": "Unmatched commercial value."
+    },
+    {
+      "query_id": "q_20260331_233516_1273bf",
+      "sentence_id": "s_gnews_10_4",
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "CricMind.ai Launches India’s First AI-Powered Cricket Prediction and Analytics Platform at the Start of IPL 2026",
+      "url": "https://www.newsx.com/business/cricmind-ai-launches-indias-first-ai-powered-cricket-prediction-and-analytics-platform-at-the-start-of-ipl-2026-191434/",
+      "sentence_index": 4,
+      "sentence_text": "What it has never had, until now, is…"
+    }
+  ]
+}

@@ -1,0 +1,1166 @@
+{
+  "query_id": "q_20260331_230318_09f521",
+  "total_sentences": 116,
+  "sentences": [
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_1_0",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "2020 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2020_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "2020 World Cup may refer to:"
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_2_0",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "2021 Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2021_Men's_T20_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The 2021 ICC Men's T20 World Cup was the seventh edition of the Men's T20 World Cup, formerly known as the ICC World Twenty20, a Twenty20 cricket tournament that took place from 17 October to 14 November 2021."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_2_1",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "2021 Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2021_Men's_T20_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "The tournament was hosted by United Arab Emirates and Oman."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_2_2",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "2021 Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2021_Men's_T20_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "It was scheduled to be hosted by Australia in 2020 but later postponed to 2021 due to the COVID-19 pandemic."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_3_0",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The FIFA World Cup, often called the World Cup, is an international association football competition among the senior men's national teams of the members of the Fédération Internationale de Football Association (FIFA), the sport's global governing body."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_3_1",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "The tournament has been held every four years since the inaugural tournament in 1930, with the exception of 1942 and 1946 due to the Second World War."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_3_2",
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "The reigning champions are Argentina, who won their third title at the 2022 World Cup by defeating France."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_4_0",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Men's_T20_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The ICC Men's T20 World Cup, formerly the ICC World Twenty20, is a biennial world cup for cricket in Twenty20 International (T20I) format, organised by the International Cricket Council (ICC)."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_4_1",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Men's_T20_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "It was held in every odd year from 2007 to 2009, and since 2010 has been held in every even year with the exception of 2018 and 2020."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_4_2",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/Men's_T20_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "In 2018, the tournament was rebranded from the World Twenty20 to the Men's T20 World Cup."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_5_0",
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "2020 Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2020_Women's_T20_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The 2020 Women's T20 World Cup was the seventh Women's T20 World Cup tournament."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_5_1",
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "2020 Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2020_Women's_T20_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "It was held in Australia between 21 February and 8 March 2020."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_5_2",
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "2020 Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2020_Women's_T20_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "The final took place at the Melbourne Cricket Ground on International Women's Day."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_5_3",
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "2020 Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2020_Women's_T20_World_Cup",
+      "sentence_index": 3,
+      "sentence_text": "Hosts Australia won the tournament, beating India by 85 runs, to win their fifth title."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_6_0",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "Dubai World Cup",
+      "url": "https://en.wikipedia.org/wiki/Dubai_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The Dubai World Cup is a Thoroughbred horse race held annually since 1996 and contested at the Meydan Racecourse in Dubai, United Arab Emirates."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_6_1",
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "Dubai World Cup",
+      "url": "https://en.wikipedia.org/wiki/Dubai_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "The race is operated by Emirates Racing Authority (ERA) and carries a purse of US$12 million."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_7_0",
+      "doc_id": "wiki_7",
+      "source": "wikipedia",
+      "title": "2026 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The 2026 FIFA World Cup will be the 23rd FIFA World Cup, the quadrennial international men's soccer championship contested by the national teams of the member associations of FIFA."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_7_1",
+      "doc_id": "wiki_7",
+      "source": "wikipedia",
+      "title": "2026 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "The tournament will take place from June 11 to July 19, 2026."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_7_2",
+      "doc_id": "wiki_7",
+      "source": "wikipedia",
+      "title": "2026 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "It will be jointly hosted by sixteen cities—eleven in the United States, three in Mexico, and two in Canada."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_7_3",
+      "doc_id": "wiki_7",
+      "source": "wikipedia",
+      "title": "2026 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+      "sentence_index": 3,
+      "sentence_text": "The tournament will be the first FIFA World Cup to be hosted by three nations, and the first to include 48 teams, an expansion from 32."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_8_0",
+      "doc_id": "wiki_8",
+      "source": "wikipedia",
+      "title": "2020 ITTF World Cup",
+      "url": "https://en.wikipedia.org/wiki/2020_ITTF_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "2020 ITTF World Cup may refer to2020 ITTF Men's World Cup\n2020 ITTF Women's World Cup"
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_9_0",
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "2026 Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_Men's_T20_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The 2026 ICC Men's T20 World Cup was the tenth edition of the ICC Men's T20 World Cup, co-hosted by Board of Control for Cricket in India and Sri Lanka Cricket from 7 February to 8 March 2026."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_9_1",
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "2026 Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_Men's_T20_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "Sri Lanka had previously hosted the competition in 2012 and India in 2016."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_9_2",
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "2026 Men's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_Men's_T20_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "A total of twenty teams competed in 55 matches across five venues in India and three in Sri Lanka."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_10_0",
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "2026 Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_Women's_T20_World_Cup",
+      "sentence_index": 0,
+      "sentence_text": "The 2026 ICC Women's T20 World Cup will be the tenth edition of the Women's T20 World Cup, scheduled to be hosted by the England and Wales Cricket Board."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_10_1",
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "2026 Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_Women's_T20_World_Cup",
+      "sentence_index": 1,
+      "sentence_text": "England had previously hosted the inaugural competition in 2009."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_wiki_10_2",
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "2026 Women's T20 World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_Women's_T20_World_Cup",
+      "sentence_index": 2,
+      "sentence_text": "A total of twelve teams will compete in 33 matches across seven venues."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_1_0",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Science of Emotional Intelligence",
+      "url": "https://openalex.org/W1929762780",
+      "sentence_index": 0,
+      "sentence_text": "Almost from its inception, the emotional intelligence (EI) construct has been an elusive one."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_1_1",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Science of Emotional Intelligence",
+      "url": "https://openalex.org/W1929762780",
+      "sentence_index": 1,
+      "sentence_text": "After nearly 2 decades of research, there still appears to be little consensus over how EI should be conceptualized or assessed and the efficacy of practical applications in real life settings."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_1_2",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Science of Emotional Intelligence",
+      "url": "https://openalex.org/W1929762780",
+      "sentence_index": 2,
+      "sentence_text": "This paper aims at providing a snapshot of the state-of-the-art in research involving this newly minted construct."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_1_3",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Science of Emotional Intelligence",
+      "url": "https://openalex.org/W1929762780",
+      "sentence_index": 3,
+      "sentence_text": "Specifically, in separate sections of this article, we set out to distinguish what is known from what is unknown in relation to three paramount concerns of EI research, i.e., conceptualization, assessment, and applications."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_1_4",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Science of Emotional Intelligence",
+      "url": "https://openalex.org/W1929762780",
+      "sentence_index": 4,
+      "sentence_text": "In each section, we start by discussing assertions that may be made with some degree of confidence, elucidating what are essentially sources of consensus concerning EI."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_1_5",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Science of Emotional Intelligence",
+      "url": "https://openalex.org/W1929762780",
+      "sentence_index": 5,
+      "sentence_text": "We move then to discuss sources of controversy; those things for which there is less agreement among EI researchers."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_1_6",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Science of Emotional Intelligence",
+      "url": "https://openalex.org/W1929762780",
+      "sentence_index": 6,
+      "sentence_text": "We hope that this “straight talk” about the current status of EI research will provide a platform for new research in both basic and applied domains."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_2_0",
+      "doc_id": "scholar_2",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Indices Development for Player’s Performance Evaluation through the Super-SBM Approach in Each Department for All Three Formats of Cricket",
+      "url": "https://openalex.org/W4319982690",
+      "sentence_index": 0,
+      "sentence_text": "Player performance evaluations in all three formats of cricket have been a topic of great concern for sports analysts and research experts."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_2_1",
+      "doc_id": "scholar_2",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Indices Development for Player’s Performance Evaluation through the Super-SBM Approach in Each Department for All Three Formats of Cricket",
+      "url": "https://openalex.org/W4319982690",
+      "sentence_index": 1,
+      "sentence_text": "This study proposed a comprehensive performance estimation tool that incorporates all the essential inputs–outputs and evaluates a cricketer’s overall performance."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_2_2",
+      "doc_id": "scholar_2",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Indices Development for Player’s Performance Evaluation through the Super-SBM Approach in Each Department for All Three Formats of Cricket",
+      "url": "https://openalex.org/W4319982690",
+      "sentence_index": 2,
+      "sentence_text": "This research introduced three different estimation indices for player efficiency in all three formats of cricket for batting, bowling, and fielding."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_2_3",
+      "doc_id": "scholar_2",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Indices Development for Player’s Performance Evaluation through the Super-SBM Approach in Each Department for All Three Formats of Cricket",
+      "url": "https://openalex.org/W4319982690",
+      "sentence_index": 3,
+      "sentence_text": "Further, this research employed the DEA Super-SBM model to evaluate the player’s efficiency in batting, bowling, and fielding departments of all three formats."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_2_4",
+      "doc_id": "scholar_2",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Indices Development for Player’s Performance Evaluation through the Super-SBM Approach in Each Department for All Three Formats of Cricket",
+      "url": "https://openalex.org/W4319982690",
+      "sentence_index": 4,
+      "sentence_text": "The study estimates the most efficient batsman, bowler, and fielder in cricketing history by using the data of international cricketers (1877–2019)."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_2_5",
+      "doc_id": "scholar_2",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Indices Development for Player’s Performance Evaluation through the Super-SBM Approach in Each Department for All Three Formats of Cricket",
+      "url": "https://openalex.org/W4319982690",
+      "sentence_index": 5,
+      "sentence_text": "The results indicate that, compared to the traditional parameters, the proposed study indices are more accurate and comprehensive in nature."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_2_6",
+      "doc_id": "scholar_2",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Indices Development for Player’s Performance Evaluation through the Super-SBM Approach in Each Department for All Three Formats of Cricket",
+      "url": "https://openalex.org/W4319982690",
+      "sentence_index": 6,
+      "sentence_text": "The most efficient batsman, bowler, and fielder in all three formats are given, respectively: (i) Sir Bradman, Sachin Tendulkar, and Virat Kohli; (ii) Muralitharan, Mitchell Starc, and Umar Gul; and (iii) Saleem Yousuf, Luke Ronchi, and Scott Edwards."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_2_7",
+      "doc_id": "scholar_2",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Indices Development for Player’s Performance Evaluation through the Super-SBM Approach in Each Department for All Three Formats of Cricket",
+      "url": "https://openalex.org/W4319982690",
+      "sentence_index": 7,
+      "sentence_text": "For teams, England, Australia, and India were determined to be the most efficient in batting for all three formats; the West Indies, Australia, and Pakistan are the most efficient in bowling; and the Australian (Test &amp; ODIs) and South African teams are efficient in the fielding department."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_0",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 0,
+      "sentence_text": "ICC Men`s T20 World Cup Australia 2022 is available in Continental Europe, Malaysia, Hong Kong, China, Japan, Nepal, Bhutan, Maldives and South East Asia ( Except Singapore).\\n\\nICC T20 World Cup 2022 Live Streaming\\n\\n \\n\\nICC T20 World Cup 2022 Live Streaming\\n\\n \\n\\nOn the first day of Super 12, New Zealand and England registered comprehensive wins against Australia and Afghanistan in their world cup campaign opener."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_1",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 1,
+      "sentence_text": "Sri Lanka will face Ireland tomorrow at 9:30 am IST followed by the most awaited match between archrivals India and Pakistan in Melbourne at 1:30 pm IST."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_2",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 2,
+      "sentence_text": "YuppTV brings India vs Pakistan live to unfold the greatest rivalry."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_3",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 3,
+      "sentence_text": "Stay tuned to YuppTV to watch ICC Men`s T20 World Cup 2022.\\n\\nThe two-time world champion West Indies experienced a surprising exit from the ICC Men`s T20 World Cup 2022."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_4",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 4,
+      "sentence_text": "By the end of group stage matches, Sri Lanka, Netherlands, Zimbabwe and Ireland have qualified for the Super 12s."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_5",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 5,
+      "sentence_text": "While Sri Lanka and Ireland join the death group (comprising Australia, New Zealand, England and Afghanistan), Netherlands and Zimbabwe have made it to Group 2 alongside India, Pakistan, Bangladesh and South Africa."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_6",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 6,
+      "sentence_text": "Watch the eighth edition of the ICC Men`s T20 World Cup live on YuppTV.\\n\\nYuppTV has bagged the rights to telecast the eighth edition of the ICC Men`s T20 World Cup 2022 Australia."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_7",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 7,
+      "sentence_text": "After bringing top cricketing events like the Indian Premier League and Asia Cup this year, YuppTV is back with the much-anticipated ICC Men`s T20 World Cup Australia 2022."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_8",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 8,
+      "sentence_text": "This blockbuster cricket event runs from October 16 to November 13 in Australia."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_9",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 9,
+      "sentence_text": "Supposed to be held in 2020, the tournament was postponed due to Covid 19 pandemic and rearranged to October 2022."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_10",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 10,
+      "sentence_text": "While the tournament`s group stage begins with a clash between Sri Lanka and Namibia on October 16 in Geelong, the first match of Super 12 will witness defending champion Australia locking horns with New Zealand on October 22."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_11",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 11,
+      "sentence_text": "All eyes are on the highly intense game between arch-rivals India and Pakistan on October 23 in Melbourne.\\n\\n\\n \\n\\nICC Men`s T20 World Cup 2022 Australia will witness Sixteen teams participating in the marquee event in 45 games played over a month."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_12",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 12,
+      "sentence_text": "Eight teams (Sri Lanka, Namibia, West Indies, Scotland, Netherlands, UAE, Zimbabwe and Ireland) will fight in the group stage, where the top four qualify for the Super 12s alongside India, Pakistan, Australia, New Zealand, Afghanistan, Bangladesh, South Africa and England."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_13",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 13,
+      "sentence_text": "West Indies is the only team that won the cup twice in the tournament`s history."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_3_14",
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "**ICC T20 World Cup 2022 Live | ICC T20 World Cup Live Streaming",
+      "url": "https://openalex.org/W4307109671",
+      "sentence_index": 14,
+      "sentence_text": "The inaugural champion India, the 2009 winner Pakistan, England, Sri Lanka and defending champion Australia have won once and aim for a second title.\\n\\nSuper 12:\\n\\nGroup 1: Afghanistan, Australia, England, New Zealand, Sri Lanka, Ireland\\n\\nGroup 2: Bangladesh, India, Pakistan, South Africa, Netherlands, Zimbabwe.\\n\\nICC Men`s T20 World Cup 2022 Fixtures: -\\n\\nSuper 12:\\n\\nOctober 22:\\n\\nNew Zealand vs Australia (Sydney) - New Zealand won by 89 runs,\\n\\nEngland vs Afghanistan (Perth) - England won by 5 wickets.\\n\\nOctober 23: Ireland vs Sri Lanka (Hobart), India vs Pakistan (Melbourne).\\n\\nOctober 24: Bangladesh vs Netherlands (Hobart), South Africa vs Zimbabwe (Hobart).\\n\\nOctober 25: Australia vs Sri Lanka (Perth).\\n\\nOctober 26: England vs Ireland (Melbourne), New Zealand vs Afghanistan (Melbourne).\\n\\nOctober 27: South Africa vs Bangladesh (Sydney), India vs Netherlands (Sydney), Pakistan vs Zimbabwe (Perth).\\n\\nOctober 28: Afghanistan vs Ireland (Melbourne), England v Australia (Melbourne).\\n\\nOctober 29: New Zealand vs Sri Lanka (Sydney).\\n\\nOctober 30: Bangladesh vs Zimbabwe (Brisbane), Pakistan vs Netherlands (Perth), India vs South Africa (Perth).\\n\\nOctober 31: Australia vs Ireland (Brisbane).\\n\\nNovember 1: Afghanistan vs Sri Lanka (Brisbane), England vs New Zealand (Gabba).\\n\\nNovember 2: Netherlands v Zimbabwe (Adelaide), India v Bangladesh (Adelaide).\\n\\nNovember 3: Pakistan vs South Africa (Sydney).\\n\\nNovember 4: New Zealand vs Ireland (Adelaide), Australia vs Afghanistan (Adelaide).\\n\\nNovember 5: England vs Sri Lanka (Sydney).\\n\\nNovember 6: South Africa vs Netherlands (Adelaide), Pakistan vs Bangladesh (Adelaide), India vs Zimbabwe (Melbourne).\\n\\nKnockouts :\\n\\nWednesday, November 9: Semi-final (Sydney)\\n\\nThursday, November 10: Semi-final (Adelaide)\\n\\nSunday, November 13: Final (Melbourne)"
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_4_0",
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Quantitative Analysis of Forthcoming ICC Men’s T20 World Cup 2020 Winner Prediction using Machine Learning",
+      "url": "https://openalex.org/W3036522938",
+      "sentence_index": 0,
+      "sentence_text": "The ICC Men's T20 Cricket World Cup 2020 is scheduled to be hosted by Australia in the month of October and November 2020."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_4_1",
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Quantitative Analysis of Forthcoming ICC Men’s T20 World Cup 2020 Winner Prediction using Machine Learning",
+      "url": "https://openalex.org/W3036522938",
+      "sentence_index": 1,
+      "sentence_text": "Machine Learning in sports analytics is now a days actively applied for prediction of winners."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_4_2",
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Quantitative Analysis of Forthcoming ICC Men’s T20 World Cup 2020 Winner Prediction using Machine Learning",
+      "url": "https://openalex.org/W3036522938",
+      "sentence_index": 2,
+      "sentence_text": "The work presented in this paper aims to predict the winner of the upcoming seventh version of ICC Men's T20 world cup using Random Forest Classifier, Nave Bayes, KNN, Logistic Regression, Decision Tree, SVM, Bagging Classifier, Extra Trees Classifier, Voting (HARD & SOFT) training."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_4_3",
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Quantitative Analysis of Forthcoming ICC Men’s T20 World Cup 2020 Winner Prediction using Machine Learning",
+      "url": "https://openalex.org/W3036522938",
+      "sentence_index": 3,
+      "sentence_text": "All these approaches are tested on the different available historic data of international cricket matches played between different countries from 2005 to March 2020."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_4_4",
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Quantitative Analysis of Forthcoming ICC Men’s T20 World Cup 2020 Winner Prediction using Machine Learning",
+      "url": "https://openalex.org/W3036522938",
+      "sentence_index": 4,
+      "sentence_text": "Unstructured historic cricket statistics is picked from ESPN and Cricbuzz websites."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_4_5",
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Quantitative Analysis of Forthcoming ICC Men’s T20 World Cup 2020 Winner Prediction using Machine Learning",
+      "url": "https://openalex.org/W3036522938",
+      "sentence_index": 5,
+      "sentence_text": "Experimental results prove that all approaches are able to imbibe the extracted patterns from the various set of matches performed and hence is found suitable to predict the winner of the ICC Men's T20 Cricket World Cup 2020."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_4_6",
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Quantitative Analysis of Forthcoming ICC Men’s T20 World Cup 2020 Winner Prediction using Machine Learning",
+      "url": "https://openalex.org/W3036522938",
+      "sentence_index": 6,
+      "sentence_text": "A comparative study is also presented for the predictions made through different approaches."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_5_0",
+      "doc_id": "scholar_5",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Research on Financial Support Mechanism of Creative Enterprises",
+      "url": "https://openalex.org/W3179596974",
+      "sentence_index": 0,
+      "sentence_text": "Based on the literature review, this paper proposed the model between the influencing factors of financial support of creative enterprises, financial support capabilities and support performance, and made corresponding assumptions."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_5_1",
+      "doc_id": "scholar_5",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Research on Financial Support Mechanism of Creative Enterprises",
+      "url": "https://openalex.org/W3179596974",
+      "sentence_index": 1,
+      "sentence_text": "On the basis of expert research and pre-study, the questionnaire of ‘research on financial support mechanism of creative enterprises’ is designed."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_5_2",
+      "doc_id": "scholar_5",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Research on Financial Support Mechanism of Creative Enterprises",
+      "url": "https://openalex.org/W3179596974",
+      "sentence_index": 2,
+      "sentence_text": "Then, this paper took Chinese financial institutions and creative enterprises as research objects and collects 305 valid questionnaires."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_5_3",
+      "doc_id": "scholar_5",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Research on Financial Support Mechanism of Creative Enterprises",
+      "url": "https://openalex.org/W3179596974",
+      "sentence_index": 3,
+      "sentence_text": "The empirical research showed that policy and regulation, social trust, financial innovation mechanism, risk management mechanism, financial service system, resources, marketing and technology had significant positive effects on the financial support performance of creative enterprises."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_5_4",
+      "doc_id": "scholar_5",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Research on Financial Support Mechanism of Creative Enterprises",
+      "url": "https://openalex.org/W3179596974",
+      "sentence_index": 4,
+      "sentence_text": "Financial support capabilities of creative enterprises played a mediating role in the relationship between the social environment dimension, financial institution dimension, creative enterprises dimension and financial support performance of creative enterprises."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_6_0",
+      "doc_id": "scholar_6",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Hundred: A sociological analysis of gender relations and the (semi-) professionalisation of women's cricket in England",
+      "url": "https://openalex.org/W4395072597",
+      "sentence_index": 0,
+      "sentence_text": "In this article, we adopt a critical sociological perspective to understanding gender relations and cricket, through the lens of The Hundred – a new, short-form tournament, described by the England and Wales Cricket Board as being part of its long-term commitment to making cricket a gender-equal sport."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_6_1",
+      "doc_id": "scholar_6",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Hundred: A sociological analysis of gender relations and the (semi-) professionalisation of women's cricket in England",
+      "url": "https://openalex.org/W4395072597",
+      "sentence_index": 1,
+      "sentence_text": "The Hundred is the first sporting tournament in the world which, from the outset, featured fully aligned competitions for both men's and women's teams, including equal prize money, but not equal pay, which the recent Independent Commission for Equity in Cricket condemned."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_6_2",
+      "doc_id": "scholar_6",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Hundred: A sociological analysis of gender relations and the (semi-) professionalisation of women's cricket in England",
+      "url": "https://openalex.org/W4395072597",
+      "sentence_index": 2,
+      "sentence_text": "Drawing on concepts of professionalisation as a gendered process we discuss data from interviews with 33 people working in cricket to consider how gender relations continue to impact opportunities for women in cricket."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_6_3",
+      "doc_id": "scholar_6",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The Hundred: A sociological analysis of gender relations and the (semi-) professionalisation of women's cricket in England",
+      "url": "https://openalex.org/W4395072597",
+      "sentence_index": 3,
+      "sentence_text": "This article further supports the need to conceptualise professionalisation in sport as gendered by considering the ways The Hundred facilitates opportunities for men's and women's cricket differently."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_7_0",
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Cricket Players Selection for National Team and Franchise League using Machine Learning Algorithms",
+      "url": "https://openalex.org/W4390687229",
+      "sentence_index": 0,
+      "sentence_text": "Cricket player selection is a crucial task for both national teams and franchise leagues."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_7_1",
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Cricket Players Selection for National Team and Franchise League using Machine Learning Algorithms",
+      "url": "https://openalex.org/W4390687229",
+      "sentence_index": 1,
+      "sentence_text": "Traditionally, selectors rely on their experience and knowledge to evaluate a player's physical fitness, batting, and bowling performance."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_7_2",
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Cricket Players Selection for National Team and Franchise League using Machine Learning Algorithms",
+      "url": "https://openalex.org/W4390687229",
+      "sentence_index": 2,
+      "sentence_text": "However, with the advancements in machine learning algorithms, it is possible to automate and improve the selection process."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_7_3",
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Cricket Players Selection for National Team and Franchise League using Machine Learning Algorithms",
+      "url": "https://openalex.org/W4390687229",
+      "sentence_index": 3,
+      "sentence_text": "In this research, a Machine Learning (ML)-based approach is proposed for cricket player selection."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_7_4",
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Cricket Players Selection for National Team and Franchise League using Machine Learning Algorithms",
+      "url": "https://openalex.org/W4390687229",
+      "sentence_index": 4,
+      "sentence_text": "This approach uses a combination of physical fitness data, batting and bowling statistics, and other relevant metrics to create a comprehensive player profile."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_7_5",
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Cricket Players Selection for National Team and Franchise League using Machine Learning Algorithms",
+      "url": "https://openalex.org/W4390687229",
+      "sentence_index": 5,
+      "sentence_text": "Then three ML algorithms-linear regression, support vector regression, and random forests-are employed to identify the most promising players."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_7_6",
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Cricket Players Selection for National Team and Franchise League using Machine Learning Algorithms",
+      "url": "https://openalex.org/W4390687229",
+      "sentence_index": 6,
+      "sentence_text": "Data is collected on a large number of cricket players and their performance in national and franchise leagues from the two most prominent cricket websites, espncricinfo, and cricbuzz, to evaluate the proposed approach."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_7_7",
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Cricket Players Selection for National Team and Franchise League using Machine Learning Algorithms",
+      "url": "https://openalex.org/W4390687229",
+      "sentence_index": 7,
+      "sentence_text": "Then the proposed approach trained and tested the ML models on this data and compared their accuracy and performance."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_7_8",
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Cricket Players Selection for National Team and Franchise League using Machine Learning Algorithms",
+      "url": "https://openalex.org/W4390687229",
+      "sentence_index": 8,
+      "sentence_text": "Based on the performance scores obtained from these models, two squads are selected for the national team and one squad for each franchise league team."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_7_9",
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Cricket Players Selection for National Team and Franchise League using Machine Learning Algorithms",
+      "url": "https://openalex.org/W4390687229",
+      "sentence_index": 9,
+      "sentence_text": "The results demonstrate that the proposed approach can significantly improve the selection process and identify players with high potential."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_7_10",
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Cricket Players Selection for National Team and Franchise League using Machine Learning Algorithms",
+      "url": "https://openalex.org/W4390687229",
+      "sentence_index": 10,
+      "sentence_text": "Furthermore, results found that the support vector regression algorithm outperformed other ML models in terms of prediction and player selection."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_8_0",
+      "doc_id": "scholar_8",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The evolution of competitive balance in men’s international cricket",
+      "url": "https://openalex.org/W3170695718",
+      "sentence_index": 0,
+      "sentence_text": "Rationale This study analyses competitive balance (CB) in all formats of men’s international cricket longitudinally between 1877 and 2019 with the results broken down into segregated time periods to account for changes in the format of the sport over the course of its history.Methodology Using recognised measures of league concentration, the results display a mixed picture in respect of competitive balance across the various formats of cricket."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_8_1",
+      "doc_id": "scholar_8",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The evolution of competitive balance in men’s international cricket",
+      "url": "https://openalex.org/W3170695718",
+      "sentence_index": 1,
+      "sentence_text": "Men’s international cricket has seen growth in the last five years after all Twenty20 (T20) matches between International Cricket Council (ICC) member nations have been awarded international status and competitive balance in all formats of the game has remained relatively stable.Findings No significant changes have been observed in CB scores in test and One Day Internationals (ODI) while improvement in CB scores have been observed for T20I."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_8_2",
+      "doc_id": "scholar_8",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The evolution of competitive balance in men’s international cricket",
+      "url": "https://openalex.org/W3170695718",
+      "sentence_index": 2,
+      "sentence_text": "We did not find any impact of the introduction of T20I on competitive balance in ODI cricket.Practical implications In a broader governance context, questions remain over the potential for further growth of the international cricket market given the dominant market position of the full members of ICC, in particular India, Australia and England, who have access to majority of the central revenue funding from the governing body."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_9_0",
+      "doc_id": "scholar_9",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Paying while playing: examining the influence of interaction with gamified elements in fantasy sports on in-app spending",
+      "url": "https://openalex.org/W4391653680",
+      "sentence_index": 0,
+      "sentence_text": "Research question: Prompting consumers to spend more in fantasy sport applications is necessary to provide supplementary sources of revenue for sport organizations.The current research draws on gamification literature to examine consumers' engagement with three prominent fantasy sports motivational affordances of points, badges, and leaderboards and its relationship with in-app spending.Research methods: Multiple linear regression was used to analyze the behavioral data of 914 paying consumers in a fantasy sports application that had challenges available for top European football leagues.Results and Findings: Consumers who were unable to gain points, acquire badges frequently, or progress in leaderboards interacted more often with the fantasy sports application.Consumers spent more in the fantasy sports application if their rate of gaining points was low and their rate of interactivity with the platform was high.Rate of acquiring badges and leaderboard progress had no significant relationship with in-app spending.However, consumers' rate of interactivity with the platform influenced the relationship between leaderboard progress, and in-app spending.Implications: Findings contribute to the sport consumer behavior literature, specifically in the fantasy sports context, through gamified touchpoints.This research offers valuable insights for entities affiliated with fantasy sports, such as gambling businesses, sports network channels, sport leagues and teams, and fantasy sport companies, on strategies to sustain their platforms through enhanced revenue generation."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_0",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 0,
+      "sentence_text": "Cricket is a team sport with an intricate set of rules, where players specialize in multiple skills such as batting, bowling, and fielding."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_1",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 1,
+      "sentence_text": "Playing conditions and home advantage also impact the game."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_2",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 2,
+      "sentence_text": "Thus, it is quite challenging to build an accurate quantitative model for the game."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_3",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 3,
+      "sentence_text": "In this paper, we provide a data driven approach to predict the winner of a cricket match."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_4",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 4,
+      "sentence_text": "We divide the ongoing match into various states and provide a prediction for each state using supervised machine learning models."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_5",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 5,
+      "sentence_text": "We employ dynamic features that account for the current match situation, together with the static features like team strength, winner of the toss, and the home advantage."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_6",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 6,
+      "sentence_text": "We also use SHAP scores—an explainable AI technique—to interpret the proposed prediction model."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_7",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 7,
+      "sentence_text": "We use ball-by-ball data from 1359 men’s one day international cricket matches played between January 2004 to January 2022 to present our results."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_8",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 8,
+      "sentence_text": "We achieved the best in-play prediction accuracy of about 85% ."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_9",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 9,
+      "sentence_text": "SHAP scores reveal that during initial phases of the match, the model treats static features like team strength more important than others, in making the predictions."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_10",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 10,
+      "sentence_text": "But as the match progresses, dynamic features capturing the current match situation become exceedingly important."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_scholar_10_11",
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Winner prediction in an ongoing one day international cricket match",
+      "url": "https://openalex.org/W4390827763",
+      "sentence_index": 11,
+      "sentence_text": "Our work may be useful in preparing tools for in-play winner prediction for live cricket matches that can be used in websites and mobile applications covering the sport, in providing analytics during live television commentary, and in legal betting platforms."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_1_0",
+      "doc_id": "gnews_1",
+      "source": "gnews",
+      "title": "Leaders & motorsport fraternity attend prayer meet for rally driver ‘Gypsy King’",
+      "url": "https://indianexpress.com/article/cities/chandigarh/leaders-motorsport-fraternity-attend-prayer-meet-for-rally-driver-gypsy-king-10610841/",
+      "sentence_index": 0,
+      "sentence_text": "The motorsport fraternity also marked a strong presence, with representatives from the Federation of Motor Sports Clubs of India, Northern Motorsports, with several rally drivers and officials attending the ceremony."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_2_0",
+      "doc_id": "gnews_2",
+      "source": "gnews",
+      "title": "Lighting Lives Through Education: KP Group and PP Savani University Launch Urjanoor Scholarship for the Underprivileged",
+      "url": "https://www.newsx.com/business/lighting-lives-through-education-kp-group-and-pp-savani-university-launch-urjanoor-scholarship-for-the-underprivileged-191451/",
+      "sentence_index": 0,
+      "sentence_text": "Surat (Gujarat) [India], March 30: KP Human Development Foundation, the philanthropic arm of KP Group, in collaboration with PP Savani University, has launched the Urja Noor scholarship programme,…"
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_3_0",
+      "doc_id": "gnews_3",
+      "source": "gnews",
+      "title": "India doesn’t have a skills shortage, it has a readiness crisis in the age of AI",
+      "url": "https://www.businesstoday.in/technology/story/india-doesnt-have-a-skills-shortage-it-has-a-readiness-crisis-in-the-age-of-ai-523219-2026-03-31",
+      "sentence_index": 0,
+      "sentence_text": "“India’s skills challenge is no longer about whether people hold qualifications."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_3_1",
+      "doc_id": "gnews_3",
+      "source": "gnews",
+      "title": "India doesn’t have a skills shortage, it has a readiness crisis in the age of AI",
+      "url": "https://www.businesstoday.in/technology/story/india-doesnt-have-a-skills-shortage-it-has-a-readiness-crisis-in-the-age-of-ai-523219-2026-03-31",
+      "sentence_index": 1,
+      "sentence_text": "It is about whether they can perform in roles that are changing faster than the systems preparing them,” the report notes."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_4_0",
+      "doc_id": "gnews_4",
+      "source": "gnews",
+      "title": "Inside the two diamond markets driving the divide in India’s jewellery sector",
+      "url": "https://www.livemint.com/focus/inside-the-two-diamond-markets-driving-the-divide-in-india-s-jewellery-sector-11774934140817.html",
+      "sentence_index": 0,
+      "sentence_text": "India's diamond demand is expanding on parallel paths as buyers split purchases between permanence and personal expression."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_5_0",
+      "doc_id": "gnews_5",
+      "source": "gnews",
+      "title": "Yamaha Music India, Signs iconic A R Rahman as Brand Ambassador",
+      "url": "https://www.news18.com/agency-feeds/yamaha-music-india-signs-iconic-a-r-rahman-as-brand-ambassador-10006651.html",
+      "sentence_index": 0,
+      "sentence_text": "Yamaha Music India, Signs iconic A R Rahman as Brand Ambassador"
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_6_0",
+      "doc_id": "gnews_6",
+      "source": "gnews",
+      "title": "How Rajinikanth balances fatherhood and fame: Parenting lessons to learn from the Superstar",
+      "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/how-rajinikanth-balances-fatherhood-and-fame-parenting-lessons-to-learn-from-the-superstar/articleshow/129917007.cms",
+      "sentence_index": 0,
+      "sentence_text": "Being one of the biggest film icons in India and at the same time being a family man is not easy, but Rajinikanth has done it with the utmost humility."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_7_0",
+      "doc_id": "gnews_7",
+      "source": "gnews",
+      "title": "Rethinking Wajid Ali Shah, more than a ‘debauched king’",
+      "url": "https://indianexpress.com/shorts/research/rethinking-wajid-ali-shah-more-than-a-debauched-king-10609877/",
+      "sentence_index": 0,
+      "sentence_text": "Wajid Ali Shah, often remembered as a failed ruler, was also a talented poet, dramatist, and cultural visionary."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_7_1",
+      "doc_id": "gnews_7",
+      "source": "gnews",
+      "title": "Rethinking Wajid Ali Shah, more than a ‘debauched king’",
+      "url": "https://indianexpress.com/shorts/research/rethinking-wajid-ali-shah-more-than-a-debauched-king-10609877/",
+      "sentence_index": 1,
+      "sentence_text": "Wajid Ali Shah: A Cultural and Literary Legacy (Hachette India 2026) challenges this narrative and sheds light on the king’s contributions to nineteenth-century India."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_8_0",
+      "doc_id": "gnews_8",
+      "source": "gnews",
+      "title": "AGEasy Launches India's First Adult Diaper Pants with Smart Liquid Distribution Technology",
+      "url": "https://scanx.trade/stock-market-news/companies/ageasy-launches-india-s-first-adult-diaper-pants-with-smart-liquid-distribution-technology/36480482",
+      "sentence_index": 0,
+      "sentence_text": "AGEasy, under Max India Limited's subsidiary Antara Senior Care, has launched India's first adult diaper pants with Smart Liquid Distribution technology on March 31, 2026."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_8_1",
+      "doc_id": "gnews_8",
+      "source": "gnews",
+      "title": "AGEasy Launches India's First Adult Diaper Pants with Smart Liquid Distribution Technology",
+      "url": "https://scanx.trade/stock-market-news/companies/ageasy-launches-india-s-first-adult-diaper-pants-with-smart-liquid-distribution-technology/36480482",
+      "sentence_index": 1,
+      "sentence_text": "The innovative product features a proprietary three-layer design offering up to 12 hours of protection with anti-bacterial core, addressing key issues of sagging, leakage, and uneven absorption."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_8_2",
+      "doc_id": "gnews_8",
+      "source": "gnews",
+      "title": "AGEasy Launches India's First Adult Diaper Pants with Smart Liquid Distribution Technology",
+      "url": "https://scanx.trade/stock-market-news/companies/ageasy-launches-india-s-first-adult-diaper-pants-with-smart-liquid-distribution-technology/36480482",
+      "sentence_index": 2,
+      "sentence_text": "The technology includes a uniquely perforated top sheet for immediate liquid transfer and redesigned distribution layer preventing pooling, with the innovation currently awaiting patent grant and tested in NABL-accredited laboratories."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_9_0",
+      "doc_id": "gnews_9",
+      "source": "gnews",
+      "title": "Oil companies should have a special window for forex, it will ease rupee depreciation: Report",
+      "url": "https://www.thehindubusinessline.com/markets/forex/oil-companies-should-have-a-special-window-for-forex-it-will-ease-rupee-depreciation-report/article70805786.ece",
+      "sentence_index": 0,
+      "sentence_text": "The report also emphasises that India’s external position remains strong, providing confidence in managing currency pressures."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_9_1",
+      "doc_id": "gnews_9",
+      "source": "gnews",
+      "title": "Oil companies should have a special window for forex, it will ease rupee depreciation: Report",
+      "url": "https://www.thehindubusinessline.com/markets/forex/oil-companies-should-have-a-special-window-for-forex-it-will-ease-rupee-depreciation-report/article70805786.ece",
+      "sentence_index": 1,
+      "sentence_text": "It noted that the country has foreign exchange reserves sufficient to cover more than 10 months of imports"
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_10_0",
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "Ryan Williams debut hints at new Indian football era despite chaos",
+      "url": "https://www.indiatoday.in/sports/football/story/ryan-williams-debut-india-football-asian-cup-qualifier-hong-kong-2889432-2026-03-31",
+      "sentence_index": 0,
+      "sentence_text": "Ryan Williams is set to make his India debut in a dead rubber against Hong Kong."
+    },
+    {
+      "query_id": "q_20260331_230318_09f521",
+      "sentence_id": "s_gnews_10_1",
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "Ryan Williams debut hints at new Indian football era despite chaos",
+      "url": "https://www.indiatoday.in/sports/football/story/ryan-williams-debut-india-football-asian-cup-qualifier-hong-kong-2889432-2026-03-31",
+      "sentence_index": 1,
+      "sentence_text": "While the campaign has faltered, his arrival hints at a potential shift in India’s footballing future."
+    }
+  ]
+}

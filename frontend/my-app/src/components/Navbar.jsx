@@ -1,44 +1,42 @@
 import { Link } from "react-router-dom";
+
 export default function Navbar() {
     return (
-        <nav className="sticky top-0 z-50 backdrop-blur-2xl bg-slate-950/80 border-b border-white/5">
-            <div className="max-w-7xl mx-auto px-8 py-4 flex items-center justify-between">
+        <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-slate-200/50">
+            <div className="max-w-6xl mx-auto px-6 h-16 flex justify-between items-center">
 
-                {/* Logo */}
-                <Link to="/"><div className="flex items-center gap-3">
-                    <div className="h-10 w-10 rounded-2xl bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center text-white font-bold text-sm shadow-lg shadow-indigo-500/30">
+                {/* Logo Section */}
+                <Link to="/" className="flex items-center gap-3 group cursor-pointer outline-none">
+                    <div className="relative w-10 h-10 rounded-xl bg-gradient-to-tr from-indigo-600 to-violet-500 text-white flex items-center justify-center font-black text-xs shadow-lg shadow-indigo-200 transition-transform group-hover:scale-105">
                         AI
+                        <div className="absolute inset-0 rounded-xl border border-white/20"></div>
                     </div>
-                    <span className="text-lg font-semibold tracking-tight text-white">
-                        ClaimLens
+                    <span className="font-bold text-xl tracking-tight text-slate-900">
+                        Claim<span className="text-indigo-600">AI</span>
                     </span>
-                </div>
                 </Link>
 
-                {/* Center Navigation */}
-                <div className="hidden md:flex items-center gap-10 text-sm text-slate-400">
-
-                    {/* <span className="hover:text-white transition cursor-pointer">
-                        Documentation
-                    </span> */}
-                    <Link
-                        to="/documentation"
-                        className="hover:text-white transition"
-                    >
-                        Documentation
+                {/* Navigation Links */}
+                <div className="hidden md:flex items-center gap-8 text-sm font-medium text-slate-500">
+                    <Link to="/dashboard" className="text-slate-900 hover:text-indigo-600 transition-colors">
+                        Dashboard
                     </Link>
-
-                </div>
-
-                {/* Right Side */}
-                <div className="flex items-center gap-4">
-
-                    <span className="hidden md:inline-flex px-3 py-1 text-xs rounded-full bg-indigo-500/10 text-indigo-400 border border-indigo-500/20">
-                        Experimental Research Prototype
-                    </span>
-
-
-
+                    
+                    {/* Updated 'Documentation' to 'Blueprints' */}
+                    <Link to="/documentation" className="hover:text-indigo-600 transition-colors">
+                        Blueprints
+                    </Link>
+                    
+                    <Link to="/api-keys" className="hover:text-indigo-600 transition-colors">
+                        API Keys
+                    </Link>
+                    
+                    {/* Divider */}
+                    <div className="h-4 w-[1px] bg-slate-200"></div>
+                    
+                    <Link to="/signin" className="text-slate-600 hover:text-slate-900 transition-colors">
+                        Sign In
+                    </Link>
                 </div>
             </div>
         </nav>
